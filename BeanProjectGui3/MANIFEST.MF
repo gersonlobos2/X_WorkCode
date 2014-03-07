@@ -1,0 +1,4 @@
+Manifest-version: 1.0
+Sealed: true
+Main-Class: oop.main
+
