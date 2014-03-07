@@ -1,0 +1,96 @@
+TBinaryTree
+v7
+r0
+t313880391.738351
+cCheck dependencies
+cCompileC build/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug/BinaryTree" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/bag6.h
+c000000004CFC02350000000000000DA4
+t1291584053
+s3492
+i<cstdlib>
+i"bintree.h"
+i"bag6.hh"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/bag6.hh
+c000000004CFD263E00000000000022FA
+t1291658814
+s8954
+i<cassert>
+i<cstdlib>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/bintree.h
+c000000004D00FDFE0000000000001CF0
+t1291910654
+s7408
+i<cstdlib>
+i"bintree.hh"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/bintree.hh
+c000000004D03DBFE000000000000116B
+t1292098558
+s4459
+i<cassert>
+i<cstdlib>
+i<iomanip>
+i<iostream>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/BinaryTree.LinkFileList
+c000000004CFBFE370000000000000085
+t1291583031
+s133
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/main.o
+t1292183940
+s132376
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug/BinaryTree
+t1292183940
+s38320
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp
+c000000004D05298300000000000018B9
+t1292183939
+s6329
+i<iostream>
+i<cstdlib>
+i"bintree.h"
+i"bag6.h"
+i<ctime>
+i<fstream>
+i<vector>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313880391#313880391#0(0"0(0#1#0"8625235296#0"0#
+
+CCompileC build/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313876739.706073
+e313876740.224001
+r1
+xCompileC
+xbuild/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp313876739#313876740#0(0"0(0#0#66"/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp8626111840#1576"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/BinaryTree-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/BinaryTree-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/BinaryTree-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/BinaryTree-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug/BinaryTree" normal x86_64
+s313876740.224090
+e313876740.246712
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug/BinaryTree
+xnormal
+xx86_64
+lSLF07#2@85"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug/BinaryTree313876740#313876740#0(0"0(0#0#0"8631700064#615"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/BinaryTree.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug/BinaryTree"0#
+

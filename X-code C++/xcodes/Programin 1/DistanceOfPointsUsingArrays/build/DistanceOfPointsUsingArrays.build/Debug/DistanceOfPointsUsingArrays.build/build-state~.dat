@@ -1,0 +1,62 @@
+TDistanceOfPointsUsingArrays
+v7
+r0
+t326298674.921595
+cCheck dependencies
+cCompileC build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug/DistanceOfPointsUsingArrays
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/DistanceOfPointsUsingArrays.LinkFileList
+c000000004DC2B4B200000000000000C4
+t1304605874
+s196
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp
+c000000004DC2B4B20000000000000284
+t1304605874
+s644
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326298674#326298674#0(0"0(0#1#0"8621184896#0"0#
+
+CCompileC build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326298674.437621
+e326298674.921473
+r0
+xCompileC
+xbuild/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:3: error: expected nested-name-specifier before 'namespacestd'
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:3: error: 'namespacestd' has not been declared
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:3: error: expected `;' before '(' token
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:3: error: expected unqualified-id before ')' token
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp: In function 'int main()':
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:9: error: 'cout' was not declared in this scope
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:9: error: 'endl' was not declared in this scope
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:12: error: 'cin' was not declared in this scope
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:13: warning: left shift count is negative
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:13: warning: right shift count >= width of type
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:16: error: 'cin' was not declared in this scope
+lSLF07#2@103"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326298674#326298675#0(1566"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:3: error: expected nested-name-specifier before 'namespacestd'/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:3: error: 'namespacestd' has not been declared/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:3: error: expected `;' before '(' token/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:3: error: expected unqualified-id before ')' token/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp: In function 'int main()':/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:9: error: 'cout' was not declared in this scope/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:9: error: 'endl' was not declared in this scope/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:12: error: 'cin' was not declared in this scope/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:13: warning: left shift count is negative/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:13: warning: right shift count >= width of type/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp:16: error: 'cin' was not declared in this scope10(4@52"Expected nested-name-specifier before 'namespacestd'326298674#0#159#0(6@95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326298674#3#0#3#0#19"expected * before *0(4@36"'namespacestd' has not been declared326298674#159#143#0(6@95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326298674#3#0#3#0#25"'*' has not been declared0(4@29"Expected `;' before '(' token326298674#302#136#0(6@95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326298674#3#0#3#0#19"expected * before *0(4@40"Expected unqualified-id before ')' token326298674#438#147#0(6@95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326298674#3#0#3#0#19"expected * before *0(4@37"'cout' was not declared in this scope326298674#708#144#0(6@95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326298674#9#0#9#0#34"'*' was not declared in this scope0(4@37"'endl' was not declared in this scope326298674#852#144#0(6@95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326298674#9#0#9#0#34"'*' was not declared in this scope0(4@36"'cin' was not declared in this scope326298674#996#144#0(6@95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326298674#12#0#12#0#34"'*' was not declared in this scope0(22@28"Left shift count is negative326298674#1140#138#0(6@95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326298674#13#0#13#0#0"0(22@34"Right shift count >= width of type326298674#1278#144#0(6@95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326298674#13#0#13#0#34"right shift count >= width of type0(4@36"'cin' was not declared in this scope326298674#1422#144#0(6@95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326298674#16#0#16#0#34"'*' was not declared in this scope0(0#0#95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp8621975104#2201"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DistanceOfPointsUsingArrays-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DistanceOfPointsUsingArrays-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DistanceOfPointsUsingArrays-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DistanceOfPointsUsingArrays-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug/DistanceOfPointsUsingArrays" normal x86_64
+r0
+

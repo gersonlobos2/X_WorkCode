@@ -1,0 +1,51 @@
+Tin and out streams
+v7
+r0
+t312163234.180934
+cCheck dependencies
+cCompileC "build/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug/in and out streams
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/in and out streams.LinkFileList
+c000000004CEB0421000000000000009D
+t1290470433
+s157
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp
+c000000004CEB04210000000000000126
+t1290470433
+s294
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312163233#312163233#0(0"0(0#1#0"8618795584#0"0#
+
+CCompileC "build/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312163233.854878
+e312163234.180876
+r0
+xCompileC
+xbuild/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp312163233#312163234#0(597"/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp: In function 'int main()':/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp:8: error: 'ofstream' was not declared in this scope/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp:8: error: expected `;' before 'OutToFile'/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp:9: error: 'OutToFile' was not declared in this scope/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp:17: error: 'cin' was not declared in this scope4(4@41"'ofstream' was not declared in this scope312163234#102#127#0(6@74"/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp312163233#8#0#8#0#34"'*' was not declared in this scope0(4@31"Expected `;' before 'OutToFile'312163234#229#117#0(6@74"/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp312163233#8#0#8#0#19"expected * before *0(4@42"'OutToFile' was not declared in this scope312163234#346#128#0(6@74"/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp312163233#9#0#9#0#34"'*' was not declared in this scope0(4@36"'cin' was not declared in this scope312163234#474#123#0(6@74"/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp312163233#17#0#17#0#34"'*' was not declared in this scope0(0#0#74"/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp8623442720#1808"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/in and out streams-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/in and out streams-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/in and out streams-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/in and out streams-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug/in and out streams" normal x86_64
+r0
+

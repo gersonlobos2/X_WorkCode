@@ -1,0 +1,4 @@
+/Users/gersonlobos/Xcode & eclipse work/xcodes/Die2/Die.cpp:43: error: prototype for 'void dieclass::Die::setfaceValueROLL()' does not match any in class 'dieclass::Die'
+/Users/gersonlobos/Xcode & eclipse work/xcodes/Die2/Die.h:27: error: candidate is: void dieclass::Die::setfaceValueROLL(dieclass::Die)
+/Users/gersonlobos/Xcode & eclipse work/xcodes/Die2/Die.cpp: In member function 'void dieclass::Die::setfaceValueROLL()':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/Die2/Die.cpp:46: error: request for member 'getsides' in 'this', which is of non-class type 'dieclass::Die* const'

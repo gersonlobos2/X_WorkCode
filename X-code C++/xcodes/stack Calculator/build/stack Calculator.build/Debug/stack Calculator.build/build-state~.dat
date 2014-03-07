@@ -1,0 +1,53 @@
+Tstack Calculator
+v7
+r0
+t311962626.619691
+cCheck dependencies
+cCompileC "build/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug/stack Calculator
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/stack Calculator.LinkFileList
+c000000004CE7F4810000000000000097
+t1290269825
+s151
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp
+c000000004CE7F48100000000000000AF
+t1290269825
+s175
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311962625#311962625#0(0"0(0#1#0"8615579840#0"0#
+
+CCompileC "build/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311962625.741222
+e311962626.619571
+r0
+xCompileC
+xbuild/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp: In function 'int main(int, char* const*)':
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp:6: error: 'cin' was not declared in this scope
+lSLF07#2@80"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp311962625#311962626#0(237"/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp: In function 'int main(int, char* const*)':/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp:6: error: 'cin' was not declared in this scope1(4@36"'cin' was not declared in this scope311962626#117#120#0(6@72"/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp311962625#6#0#6#0#34"'*' was not declared in this scope0(0#0#72"/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp8615853184#1750"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/stack Calculator-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/stack Calculator-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/stack Calculator-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/stack Calculator-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug/stack Calculator" normal x86_64
+r0
+

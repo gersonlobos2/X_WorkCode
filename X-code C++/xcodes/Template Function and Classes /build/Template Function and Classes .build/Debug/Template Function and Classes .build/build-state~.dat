@@ -1,0 +1,59 @@
+TTemplate Function and Classes 
+v7
+r0
+t310960272.719767
+cCheck dependencies
+cCompileC "build/Template Function and Classes .build/Debug/Template Function and Classes .build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Debug/Template Function and Classes " normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Debug/Template Function and Classes 
+t1289267472
+s10696
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Template Function and Classes .build/Debug/Template Function and Classes .build/Objects-normal/x86_64/Template Function and Classes .LinkFileList
+c000000004CD8A90F00000000000000C1
+t1289267471
+s193
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Template Function and Classes .build/Debug/Template Function and Classes .build/Objects-normal/x86_64/main.o
+t1289267472
+s67056
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /main.cpp
+c000000004CD8A44A000000000000008F
+t1289266250
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310960271#310960271#0(0"0(0#1#0"8611252992#0"0#
+
+CCompileC "build/Template Function and Classes .build/Debug/Template Function and Classes .build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s310960271.254979
+e310960272.315264
+r1
+xCompileC
+xbuild/Template Function and Classes .build/Debug/Template Function and Classes .build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /main.cpp310960271#310960272#0(0"0(0#0#86"/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /main.cpp8635812768#2156"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes "    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Template Function and Classes .build/Debug/Template Function and Classes .build/Template Function and Classes -generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Template Function and Classes .build/Debug/Template Function and Classes .build/Template Function and Classes -own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Template Function and Classes .build/Debug/Template Function and Classes .build/Template Function and Classes -all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Template Function and Classes .build/Debug/Template Function and Classes .build/Template Function and Classes -project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Template Function and Classes .build/Debug/Template Function and Classes .build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Template Function and Classes .build/Debug/Template Function and Classes .build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Template Function and Classes .build/Debug/Template Function and Classes .build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Debug/Template Function and Classes " normal x86_64
+s310960272.315359
+e310960272.719708
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Debug/Template Function and Classes 
+xnormal
+xx86_64
+lSLF07#2@125"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Debug/Template Function and Classes 310960272#310960272#0(0"0(0#0#0"8635389856#795"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes "    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Template Function and Classes .build/Debug/Template Function and Classes .build/Objects-normal/x86_64/Template Function and Classes .LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Template Function and Classes /build/Debug/Template Function and Classes "0#
+

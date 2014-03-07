@@ -1,0 +1,62 @@
+Tprojectail
+v7
+r0
+t326319744.328103
+cCheck dependencies
+cCompileC build/projectail.build/Debug/projectail.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/Debug/projectail" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/Debug/projectail
+t1304626944
+s15496
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/projectail.build/Debug/projectail.build/Objects-normal/x86_64/main.o
+t1304626944
+s72760
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/projectail.build/Debug/projectail.build/Objects-normal/x86_64/projectail.LinkFileList
+c000000004DC305CB0000000000000091
+t1304626635
+s145
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp
+c000000004DC306F80000000000000629
+t1304626936
+s1577
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326319743#326319743#0(0"0(0#1#0"8625676832#0"0#
+
+CCompileC build/projectail.build/Debug/projectail.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326319743.930250
+e326319744.309334
+r1
+xCompileC
+xbuild/projectail.build/Debug/projectail.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp: In function 'int main()':
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp:18: warning: unused variable 'GRAVITY'
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp:21: warning: unused variable 'height'
+lSLF07#2@86"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp326319743#326319744#0(341"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp: In function 'int main()':/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp:18: warning: unused variable 'GRAVITY'/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp:21: warning: unused variable 'height'2(22@25"Unused variable 'GRAVITY'326319744#106#118#0(6@78"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp326319736#18#0#18#0#19"unused variable '*'0(22@24"Unused variable 'height'326319744#224#117#0(6@78"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp326319736#21#0#21#0#19"unused variable '*'0(0#0#78"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp8625208480#1708"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/projectail.build/Debug/projectail.build/projectail-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/projectail.build/Debug/projectail.build/projectail-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/projectail.build/Debug/projectail.build/projectail-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/projectail.build/Debug/projectail.build/projectail-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/projectail.build/Debug/projectail.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/projectail.build/Debug/projectail.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/projectail.build/Debug/projectail.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/Debug/projectail" normal x86_64
+s326319744.309426
+e326319744.328020
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/Debug/projectail
+xnormal
+xx86_64
+lSLF07#2@97"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/Debug/projectail326319744#326319744#0(0"0(0#0#0"8625330944#675"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/projectail.build/Debug/projectail.build/Objects-normal/x86_64/projectail.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/projectail/build/Debug/projectail"0#
+

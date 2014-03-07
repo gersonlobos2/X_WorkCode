@@ -1,0 +1,4 @@
+/Users/gersonlobos/Xcode & eclipse work/xcodes/Die2/main.cpp: In function 'int main()':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/Die2/main.cpp:63: error: request for member 'getControlsize' in 'bag2', which is of non-class type 'DicecollectionClass::DiceCollection ()()'
+/Users/gersonlobos/Xcode & eclipse work/xcodes/Die2/main.cpp:66: error: request for member 'getcolor' in 'bag2', which is of non-class type 'DicecollectionClass::DiceCollection ()()'
+/Users/gersonlobos/Xcode & eclipse work/xcodes/Die2/main.cpp:70: error: request for member 'getsides' in 'bag2', which is of non-class type 'DicecollectionClass::DiceCollection ()()'

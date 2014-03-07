@@ -1,0 +1,50 @@
+1,Tradition,8,Floral,yes,Germany,0.99,9.99
+2,Perle,15,Spicy Floral,no,USA,1.99,7.99
+3,Warrior,13,Earthy,no,Canada,1.99,11.99
+4,Amarillo,8,Tropical Fruit,no,Belgium,1.99,9.99
+5,Perle,4,Mild,no,England,1.99,10.99
+6,Spalt,10,Sweet,no,Belgium,1.99,6.99
+7,Goldings,8,Sweet,no,Canada,1.99,11.99
+8,Amarillo,12,Soft Herval,yes,USA,0.99,10.99
+9,Perle,3,Floral,yes,Germany,1.99,8.99
+10,Liberty,3,Sweet,no,Belgium,1.99,8.99
+11,Amarillo,6,Tropical Fruit,yes,USA,1.99,9.99
+12,Crystal,10,Mild,no,Germany,1.99,10.99
+13,Cascade,3,Tropical Fruit,no,Canada,0.99,8.99
+14,Cascade,4,Mild,yes,USA,1.99,10.99
+15,Spalt,15,Mild,yes,Canada,0.99,10.99
+16,Centennial,4,Tropical Fruit,yes,Canada,1.99,10.99
+17,Warrior,13,Mild,yes,Germany,0.99,8.99
+18,Warrior,15,Earthy,no,Canada,0.99,6.99
+19,Warrior,15,Sweet,no,Belgium,1.99,9.99
+20,Liberty,5,English,yes,Belgium,0.99,10.99
+21,Amarillo,10,Spicy,yes,Canada,1.99,7.99
+22,Perle,3,Spicy Floral,yes,USA,1.99,8.99
+23,Centennial,9,English,yes,England,1.99,10.99
+24,Tradition,7,Spicy,no,England,1.99,8.99
+25,Goldings,9,Floral,yes,Germany,1.99,8.99
+26,Centennial,5,Earthy,yes,England,1.99,7.99
+27,Warrior,9,Soft Herval,yes,Canada,0.99,10.99
+28,Goldings,3,Mild,no,England,0.99,7.99
+29,Tradition,9,Earthy,yes,Belgium,1.99,7.99
+30,Cascade,12,Sweet,yes,USA,0.99,8.99
+31,Perle,3,Sweet,yes,Canada,0.99,10.99
+32,Cascade,14,Mild,no,Canada,1.99,7.99
+33,Amarillo,7,English,yes,USA,0.99,11.99
+34,Spalt,5,Spicy,yes,Belgium,0.99,11.99
+35,Goldings,10,Spicy,no,Belgium,0.99,6.99
+36,Liberty,12,Spicy,yes,USA,0.99,9.99
+37,Goldings,12,Grapefruit,no,USA,1.99,7.99
+38,Tradition,7,English,no,Canada,0.99,7.99
+39,Warrior,13,Spicy Floral,yes,Canada,1.99,8.99
+40,Centennial,14,Earthy,yes,England,1.99,8.99
+41,Warrior,8,Spicy Floral,yes,England,0.99,11.99
+42,Spalt,7,Grapefruit,yes,Canada,0.99,11.99
+43,Cascade,15,Spicy Floral,yes,Belgium,0.99,10.99
+44,Crystal,14,Spicy,yes,England,1.99,7.99
+45,Liberty,5,Spicy Floral,yes,England,1.99,10.99
+46,Spalt,12,Tropical Fruit,yes,Belgium,0.99,6.99
+47,Spalt,9,Spicy Floral,yes,Germany,1.99,7.99
+48,Spalt,11,Soft Herval,yes,Germany,1.99,8.99
+49,Spalt,8,Tropical Fruit,yes,Canada,0.99,10.99
+50,Warrior,10,Grapefruit,no,Germany,1.99,10.99

@@ -1,0 +1,63 @@
+Tstack Calculator
+v7
+r0
+t311964994.827676
+cCheck dependencies
+cCompileC "build/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug/stack Calculator" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug/stack Calculator
+t1290272194
+s71144
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/main.o
+t1290272194
+s211680
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/stack Calculator.LinkFileList
+c000000004CE7F4810000000000000097
+t1290269825
+s151
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp
+c000000004CE7FDC20000000000000662
+t1290272194
+s1634
+i<iostream>
+i<cctype>
+i<cstdlib>
+i<cstring>
+i<stack>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311964994#311964994#0(0"0(0#1#0"8600803136#0"0#
+
+CCompileC "build/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311964994.244230
+e311964994.804152
+r1
+xCompileC
+xbuild/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp311964994#311964994#0(0"0(0#0#72"/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp8617995328#1750"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/stack Calculator-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/stack Calculator-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/stack Calculator-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/stack Calculator-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug/stack Calculator" normal x86_64
+s311964994.804244
+e311964994.827617
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug/stack Calculator
+xnormal
+xx86_64
+lSLF07#2@97"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug/stack Calculator311964994#311964994#0(0"0(0#0#0"8620218592#669"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/stack Calculator.build/Debug/stack Calculator.build/Objects-normal/x86_64/stack Calculator.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack Calculator/build/Debug/stack Calculator"0#
+

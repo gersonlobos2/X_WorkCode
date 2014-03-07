@@ -1,0 +1,59 @@
+T1_guesing_letters
+v7
+r0
+t325189424.016239
+cCheck dependencies
+cCompileC build/1_guesing_letters.build/Debug/1_guesing_letters.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/Debug/1_guesing_letters" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/1_guesing_letters.build/Debug/1_guesing_letters.build/Objects-normal/x86_64/1_guesing_letters.LinkFileList
+c000000004DB1C7AF000000000000009A
+t1303496623
+s154
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/1_guesing_letters.build/Debug/1_guesing_letters.build/Objects-normal/x86_64/main.o
+t1303496623
+s73036
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/Debug/1_guesing_letters
+t1303496624
+s16248
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/main.cpp
+c000000004DB1C7AF0000000000000349
+t1303496623
+s841
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325189423#325189423#0(0"0(0#1#0"31525334837231728#0"0#
+
+CCompileC build/1_guesing_letters.build/Debug/1_guesing_letters.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s325189423.283124
+e325189423.582793
+r1
+xCompileC
+xbuild/1_guesing_letters.build/Debug/1_guesing_letters.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/main.cpp325189423#325189423#0(229"/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/main.cpp: In function 'int main()':/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/main.cpp:23: warning: overflow in implicit constant conversion1(22@40"Overflow in implicit constant conversion325189423#101#128#0(6@73"/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/main.cpp325189423#23#0#23#0#0"0(0#0#73"/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/main.cpp7083932847239164928#1779"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/1_guesing_letters.build/Debug/1_guesing_letters.build/1_guesing_letters-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/1_guesing_letters.build/Debug/1_guesing_letters.build/1_guesing_letters-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/1_guesing_letters.build/Debug/1_guesing_letters.build/1_guesing_letters-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/1_guesing_letters.build/Debug/1_guesing_letters.build/1_guesing_letters-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/1_guesing_letters.build/Debug/1_guesing_letters.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/1_guesing_letters.build/Debug/1_guesing_letters.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/1_guesing_letters.build/Debug/1_guesing_letters.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/Debug/1_guesing_letters" normal x86_64
+s325189423.582896
+e325189424.016172
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/Debug/1_guesing_letters
+xnormal
+xx86_64
+lSLF07#2@99"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/Debug/1_guesing_letters325189423#325189424#0(0"0(0#0#0"8612308416#678"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/1_guesing_letters.build/Debug/1_guesing_letters.build/Objects-normal/x86_64/1_guesing_letters.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/1_guesing_letters/build/Debug/1_guesing_letters"0#
+

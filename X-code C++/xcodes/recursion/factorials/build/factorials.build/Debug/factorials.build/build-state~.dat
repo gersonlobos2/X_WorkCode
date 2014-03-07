@@ -1,0 +1,59 @@
+Tfactorials
+v7
+r0
+t312069015.818681
+cCheck dependencies
+cCompileC build/factorials.build/Debug/factorials.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/Debug/factorials" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/Debug/factorials
+t1290376215
+s11248
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/factorials.build/Debug/factorials.build/Objects-normal/x86_64/factorials.LinkFileList
+c000000004CE99417000000000000008F
+t1290376215
+s143
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/factorials.build/Debug/factorials.build/Objects-normal/x86_64/main.o
+t1290376215
+s70712
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/main.cpp
+c000000004CE994170000000000000174
+t1290376215
+s372
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312069015#312069015#0(0"0(0#1#0"8621451776#0"0#
+
+CCompileC build/factorials.build/Debug/factorials.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312069015.430355
+e312069015.799511
+r1
+xCompileC
+xbuild/factorials.build/Debug/factorials.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/main.cpp312069015#312069015#0(0"0(0#0#76"/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/main.cpp8619213856#1686"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/factorials.build/Debug/factorials.build/factorials-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/factorials.build/Debug/factorials.build/factorials-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/factorials.build/Debug/factorials.build/factorials-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/factorials.build/Debug/factorials.build/factorials-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/factorials.build/Debug/factorials.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/factorials.build/Debug/factorials.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/factorials.build/Debug/factorials.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/Debug/factorials" normal x86_64
+s312069015.799647
+e312069015.818632
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/Debug/factorials
+xnormal
+xx86_64
+lSLF07#2@95"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/Debug/factorials312069015#312069015#0(0"0(0#0#0"8620221536#665"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/factorials.build/Debug/factorials.build/Objects-normal/x86_64/factorials.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/factorials/build/Debug/factorials"0#
+

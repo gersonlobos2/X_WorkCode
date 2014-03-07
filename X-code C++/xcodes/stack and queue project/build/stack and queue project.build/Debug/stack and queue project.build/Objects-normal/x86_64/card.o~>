@@ -1,0 +1,63 @@
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:37: error: 'Card' has not been declared
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:37: error: ISO C++ forbids declaration of 'Card' with no type
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'int Card(int, int, bool)':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:39: error: 'setCard' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:45: error: expected constructor, destructor, or type conversion before '::' token
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:52: error: 'Card' is not a class or namespace
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'void setCard(int, int, bool)':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:54: error: 'setRank' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:55: error: 'setSuit' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:56: error: 'setPicked' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:60: error: 'Card' is not a class or namespace
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'void setRank(int)':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:62: error: 'rank' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:66: error: 'Card' is not a class or namespace
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'void setSuit(int)':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:68: error: 'suit' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:72: error: 'Card' is not a class or namespace
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'void setPicked(bool)':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:74: error: 'picked' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:81: error: 'Card' is not a class or namespace
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:81: error: non-member function 'int getRank()' cannot have cv-qualifier
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'int getRank()':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:83: error: 'rank' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:87: error: 'Card' is not a class or namespace
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:87: error: non-member function 'int getSuit()' cannot have cv-qualifier
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'int getSuit()':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:89: error: 'suit' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:93: error: 'Card' is not a class or namespace
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:93: error: non-member function 'bool getPicked()' cannot have cv-qualifier
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'bool getPicked()':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:95: error: 'picked' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:99: error: 'Card' is not a class or namespace
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:99: error: non-member function 'void printCard()' cannot have cv-qualifier
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'void printCard()':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:101: error: 'printRank' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:102: error: 'printSuit' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:103: error: 'printPicked' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:107: error: 'Card' is not a class or namespace
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:107: error: non-member function 'void printRank()' cannot have cv-qualifier
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'void printRank()':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:112: error: 'rank' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:137: error: 'Card' is not a class or namespace
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:137: error: non-member function 'void printSuit()' cannot have cv-qualifier
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'void printSuit()':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:141: error: 'suit' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:158: error: 'Card' is not a class or namespace
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:158: error: non-member function 'void printPicked()' cannot have cv-qualifier
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: In function 'void printPicked()':
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:162: error: 'picked' was not declared in this scope
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp: At global scope:
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:184: error: variable or field 'createDeck' declared void
+/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp:184: error: expected `)' before 'd'

@@ -1,0 +1,11 @@
+Collection2<Card> c4;
+
+
+for(Collection2<Card> :: iterator i = collection.begin();i != collection.end(); ++i) 
+{ 
+//Iterate through 'Cards'
+	//cout << endl;
+	stack.push(*i); //Iterator places each card in collection into the stack, s1.
+	collection.eraseOne(*i); //erase the card from the collection after moving it to the Stack
+	//std::cout << *i; //And print current index of 'Card'
+}

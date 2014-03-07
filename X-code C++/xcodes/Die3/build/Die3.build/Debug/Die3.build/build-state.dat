@@ -1,0 +1,167 @@
+TDie3
+v7
+r0
+t310259259.714493
+cCheck dependencies
+cCompileC build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/DiceCollection.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DiceCollection.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/Die3" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DiceCollection.cpp
+c000000004CA363130000000000000C78
+t1285776147
+s3192
+i"DiceCollection.h"
+i"Die.h"
+i<iostream>
+i<algorithm>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DiceCollection.h
+c000000004CA3631300000000000003BD
+t1285776147
+s957
+i"Die.h"
+i<iostream>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp
+c000000004CA363130000000000000AD2
+t1285776147
+s2770
+i"Die.h"
+i<iostream>
+i<string>
+i<ctime>
+i<cstdlib>
+i<fstream>
+i<cmath>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.h
+c000000004CA363130000000000000429
+t1285776147
+s1065
+i<string>
+i<iostream>
+i<fstream>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DieCollection.cpp
+c000000004C9CDEEB00000000000001E5
+t1285349099
+s485
+i"DieCollection.h"
+i<iostream>
+i"Die.h"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DieCollection.h
+c000000004C9CDEC900000000000001DF
+t1285349065
+s479
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/Die3
+t1285776149
+s32072
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/DiceCollection.o
+t1285776149
+s83920
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die.o
+t1285776148
+s78848
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die3.LinkFileList
+c000000004C9CE0410000000000000162
+t1285349441
+s354
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/DieCollection.o
+t1285349100
+s52184
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/main.o
+t1285776148
+s77780
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp
+c000000004CA36313000000000000178A
+t1285776147
+s6026
+i<iostream>
+i<string>
+i"Die.h"
+i"DiceCollection.h"
+i<ctime>
+i<cstdlib>
+i<fstream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310259259#310259259#0(0"0(0#1#0"8625062944#0"0#
+
+CCompileC build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/DiceCollection.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DiceCollection.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307468948.971309
+e307468949.434225
+r1
+xCompileC
+xbuild/Die3.build/Debug/Die3.build/Objects-normal/x86_64/DiceCollection.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DiceCollection.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DiceCollection.cpp307468948#307468949#0(0"0(0#0#70"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DiceCollection.cpp8616988768#1422"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DiceCollection.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/DiceCollection.o"0#
+
+CCompileC build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307468947.808853
+e307468949.069560
+r1
+xCompileC
+xbuild/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp307468947#307468949#0(0"0(0#0#59"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp8607919456#1400"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die.o"0#
+
+CCompileC build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/DieCollection.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DieCollection.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307041899.708934
+e307041900.117850
+r1
+xCompileC
+xbuild/Die3.build/Debug/Die3.build/Objects-normal/x86_64/DieCollection.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DieCollection.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DieCollection.cpp307041899#307041900#0(0"0(0#0#69"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DieCollection.cpp8620573984#1420"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/DieCollection.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/DieCollection.o"0#
+
+CCompileC build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307468947.804815
+e307468948.971209
+r1
+xCompileC
+xbuild/Die3.build/Debug/Die3.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307468947#307468948#0(0"0(0#0#60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp8616666496#1402"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/Die3" normal x86_64
+s307468949.434403
+e307468949.460822
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/Die3
+xnormal
+xx86_64
+lSLF07#2@73"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/Die3307468949#307468949#0(0"0(0#0#0"8601340224#561"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/Die3"0#
+

@@ -1,0 +1,50 @@
+1,Dry English Ale,74,77,Medium,7.99
+2,Dry English Ale,71,75,Medium,9.99
+3,British Ale,71,65,High,9.99
+4,Dry English Ale,69,74,High,7.99
+5,Irish Stout,78,69,High,6.99
+6,English Ale,74,65,Low,7.99
+7,Irish Stout,71,78,Low,10.99
+8,European Ale,65,78,Medium,10.99
+9,California Ale,66,73,Low,9.99
+10,Dry English Ale,77,68,Low,9.99
+11,European Ale,76,71,Medium,6.99
+12,London Ale,68,65,Low,7.99
+13,California Ale,75,65,High,10.99
+14,European Ale,68,69,Medium,7.99
+15,California Ale,72,70,Low,6.99
+16,Dry English Ale,74,72,Medium,9.99
+17,European Ale,65,74,Low,6.99
+18,Irish Stout,71,71,Low,9.99
+19,California Ale,74,69,Medium,7.99
+20,California Ale,65,66,Low,6.99
+21,California Ale,66,66,High,8.99
+22,Irish Stout,69,69,Low,7.99
+23,Pasific Ale,72,71,High,10.99
+24,British Ale,73,73,Low,10.99
+25,Belgian Ale,78,74,Low,10.99
+26,Pasific Ale,66,71,Low,10.99
+27,German Ale,69,76,Medium,8.99
+28,Irish Stout,70,76,High,9.99
+29,British Ale,78,73,Medium,6.99
+30,Belgian Ale,68,77,High,8.99
+31,German Ale,65,65,High,10.99
+32,English Ale,71,73,Low,10.99
+33,British Ale,76,77,High,10.99
+34,Dry English Ale,78,74,High,9.99
+35,Irish Stout,77,78,Medium,6.99
+36,California Ale,73,66,High,8.99
+37,Dry English Ale,71,69,High,10.99
+38,Pasific Ale,77,75,Medium,6.99
+39,Pasific Ale,75,65,High,6.99
+40,California Ale,76,73,Low,6.99
+41,Pasific Ale,77,66,Medium,9.99
+42,British Ale,65,77,Low,8.99
+43,Pasific Ale,72,67,Low,9.99
+44,English Ale,67,65,Low,6.99
+45,English Ale,69,68,Medium,6.99
+46,European Ale,65,75,Medium,6.99
+47,German Ale,65,78,High,6.99
+48,English Ale,74,68,High,10.99
+49,German Ale,72,74,Low,7.99
+50,English Ale,78,70,High,9.99

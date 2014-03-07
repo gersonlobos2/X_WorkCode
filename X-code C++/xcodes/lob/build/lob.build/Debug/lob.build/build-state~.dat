@@ -1,0 +1,83 @@
+Tlob
+v7
+r0
+t306205017.924460
+cCheck dependencies
+cCompileC build/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o /Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o /Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C8EDC2D00000000000000EE
+t1284430893
+s238
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug/lob
+t2
+s0
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o
+t2
+s0
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/lob.LinkFileList
+c000000004C9019D900000000000000CD
+t1284512217
+s205
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp
+c000000004C9019D90000000000000108
+t1284512217
+s264
+i"imp.h"
+i<iostream>
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/imp.h
+c000000004C9019D9000000000000010E
+t1284512217
+s270
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp
+c000000004C9019D900000000000000B3
+t1284512217
+s179
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306205017#306205017#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o /Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s306205017.597175
+e306205017.924098
+r0
+xCompileC
+xbuild/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o
+x/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp:18: error: expected unqualified-id before ')' token
+o/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp:22: error: declaration of '~objclass::obj' as non-member
+lSLF07#2@57"Compile /Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp306205017#306205017#0(209"/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp:18: error: expected unqualified-id before ')' token/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp:22: error: declaration of '~objclass::obj' as non-member2(4@40"Expected unqualified-id before ')' token306205017#0#102#0(6@49"/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp306205017#18#0#18#0#19"expected * before *0(4@45"Declaration of '~objclass::obj' as non-member306205017#102#107#0(6@49"/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp306205017#22#0#22#0#0"0(0#0#49"/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp8629980608#1250"    cd /Users/gersonlobos/eclipseWork/xcodes/lob    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-generated-files.hmap -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-own-target-headers.hmap -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-all-target-headers.hmap -iquote /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-project-headers.hmap -F/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug/include -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources/x86_64 -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources -c /Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp -o /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o1#
+
+CCompileC build/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o /Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s306205017.326280
+e306205017.597078
+r0
+xCompileC
+xbuild/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp306205017#306205017#0(373"/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp:2:17: error: imp.h: No such file or directory/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp: In function 'int main()':/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp:5: error: 'cout' was not declared in this scope/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp:10: error: 'cin' was not declared in this scope3(4@32"Imp.h: No such file or directory306205017#0#97#0(6@50"/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp306205017#2#0#2#0#28"*: No such file or directory0(4@37"'cout' was not declared in this scope306205017#175#99#0(6@50"/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp306205017#5#0#5#0#34"'*' was not declared in this scope0(4@36"'cin' was not declared in this scope306205017#274#99#0(6@50"/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp306205017#10#0#10#0#34"'*' was not declared in this scope0(0#0#50"/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp7863407194600464384#1252"    cd /Users/gersonlobos/eclipseWork/xcodes/lob    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-generated-files.hmap -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-own-target-headers.hmap -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-all-target-headers.hmap -iquote /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-project-headers.hmap -F/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug/include -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources/x86_64 -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources -c /Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp -o /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug/lob normal x86_64
+r0
+

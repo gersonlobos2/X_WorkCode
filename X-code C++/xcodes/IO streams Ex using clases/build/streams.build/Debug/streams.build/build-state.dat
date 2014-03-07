@@ -1,0 +1,141 @@
+Tstreams
+v7
+r0
+t343252765.964671
+cCheck dependencies
+cCompileC build/streams.build/Debug/streams.build/Objects-normal/x86_64/main.o /Users/gersonlobos/Desktop/streams/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/streams.build/Debug/streams.build/Objects-normal/x86_64/readwrite.o /Users/gersonlobos/Desktop/streams/readwrite.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/gersonlobos/Desktop/streams/build/Debug/streams normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Desktop/streams/build/Debug/streams
+t1321559722
+s19112
+
+N/Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/Objects-normal/x86_64/main.o
+t1321503169
+s70572
+
+N/Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/Objects-normal/x86_64/readwrite.o
+t1321559722
+s86816
+
+N/Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/Objects-normal/x86_64/streams.LinkFileList
+c000000004EC46A0700000000000000D5
+t1321495047
+s213
+
+N/Users/gersonlobos/Desktop/streams/main.cpp
+c000000004EC5F585000000000000016B
+t1321596293
+s363
+i<iostream>
+i"readwrite.h"
+
+N/Users/gersonlobos/Desktop/streams/readwrite.cpp
+c000000004EC5F58500000000000006BC
+t1321596293
+s1724
+i"readwrite.h"
+
+N/Users/gersonlobos/Desktop/streams/readwrite.h
+c000000004EC4879D00000000000008F7
+t1321502621
+s2295
+i<iostream>
+i<fstream>
+i<cstdlib>
+i<string>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/IO streams Ex using clases/build/Debug/streams
+t1321559722
+s19112
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/IO streams Ex using clases/build/streams.build/Debug/streams.build/Objects-normal/x86_64/main.o
+t1321503169
+s70572
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/IO streams Ex using clases/build/streams.build/Debug/streams.build/Objects-normal/x86_64/readwrite.o
+t1321559722
+s86816
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/IO streams Ex using clases/build/streams.build/Debug/streams.build/Objects-normal/x86_64/streams.LinkFileList
+c000000004EC46A0700000000000000D5
+t1321495047
+s213
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/IO streams Ex using clases/main.cpp
+c000000004EC5F585000000000000016B
+t1321596293
+s363
+i<iostream>
+i"readwrite.h"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/IO streams Ex using clases/readwrite.cpp
+c000000004EC5F58500000000000006BC
+t1321596293
+s1724
+i"readwrite.h"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/IO streams Ex using clases/readwrite.h
+c000000004EC4879D00000000000008F7
+t1321502621
+s2295
+i<iostream>
+i<fstream>
+i<cstdlib>
+i<string>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343252765#343252765#0(0"0(0#1#0"8614260032#0"0#
+
+CCompileC build/streams.build/Debug/streams.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/IO streams Ex using clases/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/streams.build/Debug/streams.build/Objects-normal/x86_64/main.o /Users/gersonlobos/Desktop/streams/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343195969.327071
+e343195969.775531
+r1
+xCompileC
+xbuild/streams.build/Debug/streams.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Desktop/streams/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/gersonlobos/Desktop/streams/main.cpp343195969#343195969#0(0"0(0#0#43"/Users/gersonlobos/Desktop/streams/main.cpp8612266624#1247"    cd /Users/gersonlobos/Desktop/streams    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/streams-generated-files.hmap -I/Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/streams-own-target-headers.hmap -I/Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/streams-all-target-headers.hmap -iquote /Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/streams-project-headers.hmap -F/Users/gersonlobos/Desktop/streams/build/Debug -I/Users/gersonlobos/Desktop/streams/build/Debug/include -I/Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/DerivedSources/x86_64 -I/Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/DerivedSources -c /Users/gersonlobos/Desktop/streams/main.cpp -o /Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/streams.build/Debug/streams.build/Objects-normal/x86_64/readwrite.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/IO streams Ex using clases/readwrite.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/streams.build/Debug/streams.build/Objects-normal/x86_64/readwrite.o /Users/gersonlobos/Desktop/streams/readwrite.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s343252521.854335
+e343252522.283292
+r1
+xCompileC
+xbuild/streams.build/Debug/streams.build/Objects-normal/x86_64/readwrite.o
+x/Users/gersonlobos/Desktop/streams/readwrite.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/gersonlobos/Desktop/streams/readwrite.cpp343252521#343252522#0(0"0(0#0#48"/Users/gersonlobos/Desktop/streams/readwrite.cpp8612482848#1257"    cd /Users/gersonlobos/Desktop/streams    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/streams-generated-files.hmap -I/Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/streams-own-target-headers.hmap -I/Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/streams-all-target-headers.hmap -iquote /Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/streams-project-headers.hmap -F/Users/gersonlobos/Desktop/streams/build/Debug -I/Users/gersonlobos/Desktop/streams/build/Debug/include -I/Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/DerivedSources/x86_64 -I/Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/DerivedSources -c /Users/gersonlobos/Desktop/streams/readwrite.cpp -o /Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/Objects-normal/x86_64/readwrite.o0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/IO streams Ex using clases/build/Debug/streams" normal x86_64
+r0
+
+CLd /Users/gersonlobos/Desktop/streams/build/Debug/streams normal x86_64
+s343252522.283392
+e343252522.303335
+r1
+xLd
+x/Users/gersonlobos/Desktop/streams/build/Debug/streams
+xnormal
+xx86_64
+lSLF07#2@59"Link /Users/gersonlobos/Desktop/streams/build/Debug/streams343252522#343252522#0(0"0(0#0#0"8614337856#478"    cd /Users/gersonlobos/Desktop/streams    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gersonlobos/Desktop/streams/build/Debug -F/Users/gersonlobos/Desktop/streams/build/Debug -filelist /Users/gersonlobos/Desktop/streams/build/streams.build/Debug/streams.build/Objects-normal/x86_64/streams.LinkFileList -mmacosx-version-min=10.6 -o /Users/gersonlobos/Desktop/streams/build/Debug/streams0#
+

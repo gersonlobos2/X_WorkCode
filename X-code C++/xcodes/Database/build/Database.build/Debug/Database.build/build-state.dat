@@ -1,0 +1,63 @@
+TDatabase
+v7
+r0
+t310939436.542941
+cCheck dependencies
+cCompileC build/Database.build/Debug/Database.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Debug/Database" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Database.build/Debug/Database.build/Objects-normal/x86_64/Database.LinkFileList
+c000000004CC6E4AB000000000000007F
+t1288103083
+s127
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Database.build/Debug/Database.build/Objects-normal/x86_64/main.o
+t1288741902
+s96024
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Debug/Database
+t1288741902
+s25768
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/main.cpp
+c000000004CD864C50000000000000AB3
+t1289249989
+s2739
+i<iostream>
+i<string>
+i<cstdlib>
+i<ctime>
+i<fstream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310939436#310939436#0(0"0(0#1#0"8619774496#0"0#
+
+CCompileC build/Database.build/Debug/Database.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s310434701.860941
+e310434702.288945
+r1
+xCompileC
+xbuild/Database.build/Debug/Database.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Database/main.cpp310434701#310434702#0(0"0(0#0#64"/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/main.cpp8624959552#1518"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Database.build/Debug/Database.build/Database-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Database.build/Debug/Database.build/Database-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Database.build/Debug/Database.build/Database-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Database.build/Debug/Database.build/Database-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Database.build/Debug/Database.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Database.build/Debug/Database.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Database.build/Debug/Database.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Debug/Database" normal x86_64
+s310434702.289036
+e310434702.309054
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Debug/Database
+xnormal
+xx86_64
+lSLF07#2@81"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Debug/Database310434702#310434702#0(0"0(0#0#0"8636571232#597"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Database.build/Debug/Database.build/Objects-normal/x86_64/Database.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Database/build/Debug/Database"0#
+

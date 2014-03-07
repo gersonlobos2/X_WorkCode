@@ -1,0 +1,220 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0B5682B2124D060E0024AF66 /* Die3 */;
+		activeTarget = 8DD76F620486A84900D96B5E /* Die3 */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* Die3 */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 0B5682B8124D062D0024AF66 /* Code sense */;
+		executables = (
+			0B5682B2124D060E0024AF66 /* Die3 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					417,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313873335;
+			PBXWorkspaceStateSaveDate = 313873335;
+		};
+		perUserProjectItems = {
+			0B4ECED31253046800400ACD /* PBXTextBookmark */ = 0B4ECED31253046800400ACD /* PBXTextBookmark */;
+			0B4ECF2612539A9900400ACD /* PBXTextBookmark */ = 0B4ECF2612539A9900400ACD /* PBXTextBookmark */;
+			0B4ECF531253AD2300400ACD /* PBXTextBookmark */ = 0B4ECF531253AD2300400ACD /* PBXTextBookmark */;
+			0B4ECF541253AD2300400ACD /* PBXTextBookmark */ = 0B4ECF541253AD2300400ACD /* PBXTextBookmark */;
+			0B5663BD12B553C5009480C3 /* PBXTextBookmark */ = 0B5663BD12B553C5009480C3 /* PBXTextBookmark */;
+			0BB86EC3126604D90027F081 /* PBXTextBookmark */ = 0BB86EC3126604D90027F081 /* PBXTextBookmark */;
+			0BBAF36D1287028800135DD6 /* PBXTextBookmark */ = 0BBAF36D1287028800135DD6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0B5682B7124D062D0024AF66 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 2522}}";
+			sepNavSelRange = "{1, 3627}";
+			sepNavVisRange = "{0, 1460}";
+		};
+	};
+	0B4ECED31253046800400ACD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B568429124DBA610024AF66 /* stl_algo.h */;
+		name = "stl_algo.h: 4420";
+		rLen = 0;
+		rLoc = 146968;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 146307;
+	};
+	0B4ECF2612539A9900400ACD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B5682BA124D062F0024AF66 /* Die.cpp */;
+		name = "Die.cpp: 7";
+		rLen = 0;
+		rLoc = 203;
+		rType = 0;
+		vrLen = 783;
+		vrLoc = 0;
+	};
+	0B4ECF531253AD2300400ACD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B5682B9124D062F0024AF66 /* Die.h */;
+		name = "Die.h: 7";
+		rLen = 0;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 793;
+		vrLoc = 0;
+	};
+	0B4ECF541253AD2300400ACD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B568323124D16BC0024AF66 /* DiceCollection.h */;
+		name = "DiceCollection.h: 31";
+		rLen = 0;
+		rLoc = 780;
+		rType = 0;
+		vrLen = 694;
+		vrLoc = 257;
+	};
+	0B5663BD12B553C5009480C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 2";
+		rLen = 3627;
+		rLoc = 1;
+		rType = 0;
+		vrLen = 1460;
+		vrLoc = 0;
+	};
+	0B5682B2124D060E0024AF66 /* Die3 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Die3;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	0B5682B7124D062D0024AF66 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0B5682B8124D062D0024AF66 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0B5682B9124D062F0024AF66 /* Die.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {937, 676}}";
+			sepNavSelRange = "{186, 0}";
+			sepNavVisRange = "{0, 793}";
+		};
+	};
+	0B5682BA124D062F0024AF66 /* Die.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {937, 1755}}";
+			sepNavSelRange = "{203, 0}";
+			sepNavVisRange = "{0, 783}";
+		};
+	};
+	0B568323124D16BC0024AF66 /* DiceCollection.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {937, 611}}";
+			sepNavSelRange = "{780, 0}";
+			sepNavVisRange = "{257, 694}";
+		};
+	};
+	0B568324124D16BC0024AF66 /* DiceCollection.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {595, 2093}}";
+			sepNavSelRange = "{821, 35}";
+			sepNavVisRange = "{1297, 718}";
+			sepNavWindowFrame = "{{61, 157}, {939, 574}}";
+		};
+	};
+	0B568429124DBA610024AF66 /* stl_algo.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stl_algo.h;
+		path = "/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/bits/stl_algo.h";
+		sourceTree = "<absolute>";
+	};
+	0BB86EC3126604D90027F081 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B568324124D16BC0024AF66 /* DiceCollection.cpp */;
+		name = "DiceCollection.cpp: 48";
+		rLen = 35;
+		rLoc = 821;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 1297;
+	};
+	0BBAF36D1287028800135DD6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 185";
+		rLen = 0;
+		rLoc = 5841;
+		rType = 0;
+		vrLen = 977;
+		vrLoc = 5049;
+	};
+	8DD76F620486A84900D96B5E /* Die3 */ = {
+		activeExec = 0;
+		executables = (
+			0B5682B2124D060E0024AF66 /* Die3 */,
+		);
+	};
+}

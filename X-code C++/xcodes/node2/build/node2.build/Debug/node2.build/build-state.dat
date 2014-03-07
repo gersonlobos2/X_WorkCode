@@ -1,0 +1,69 @@
+Tnode2
+v7
+r0
+t308807593.142796
+cCheck dependencies
+cCompileC build/node2.build/Debug/node2.build/Objects-normal/x86_64/nodeprog.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/nodeprog.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/node2.build/Debug/node2.build/Objects-normal/x86_64/node.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug/node2" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug/node2
+t1287083447
+s19616
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/Objects-normal/x86_64/node.o
+t1286983801
+s79144
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/Objects-normal/x86_64/node2.LinkFileList
+c000000004CB35FA200000000000000F0
+t1286823842
+s240
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/Objects-normal/x86_64/nodeprog.o
+t1287083447
+s73328
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.cpp
+c000000004CB5D0780000000000001815
+t1286983800
+s6165
+i"node.h"
+i<cassert>
+i<cstdlib>
+i<iostream>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.h
+c000000004CB5283200000000000026AC
+t1286940722
+s9900
+i<cstdlib>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/nodeprog.cpp
+c000000004CB755B600000000000013B1
+t1287083446
+s5041
+i<iostream>
+i<cassert>
+i<cstdlib>
+i"node.h"
+i<ctime>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308807593#308807593#0(0"0(0#1#0"8617323232#0"0#
+
+CCompileC build/node2.build/Debug/node2.build/Objects-normal/x86_64/node.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/node2.build/Debug/node2.build/Objects-normal/x86_64/nodeprog.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/nodeprog.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug/node2" normal x86_64
+r0
+

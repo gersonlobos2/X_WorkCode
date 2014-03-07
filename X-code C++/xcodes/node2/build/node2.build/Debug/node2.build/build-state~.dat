@@ -1,0 +1,91 @@
+Tnode2
+v7
+r0
+t308516643.052350
+cCheck dependencies
+cCompileC build/node2.build/Debug/node2.build/Objects-normal/x86_64/nodeprog.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/nodeprog.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/node2.build/Debug/node2.build/Objects-normal/x86_64/node.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug/node2" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug/node2
+t1286823843
+s19200
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/Objects-normal/x86_64/node.o
+t1286823843
+s79064
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/Objects-normal/x86_64/node2.LinkFileList
+c000000004CB35FA200000000000000F0
+t1286823842
+s240
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/Objects-normal/x86_64/nodeprog.o
+t1286823842
+s67016
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.cpp
+c000000004CB35FA10000000000001773
+t1286823841
+s6003
+i"node.h"
+i<cassert>
+i<cstdlib>
+i<iostream>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.h
+c000000004CB35FA10000000000002693
+t1286823841
+s9875
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/nodeprog.cpp
+c000000004CB35E90000000000000008F
+t1286823568
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308516641#308516642#0(0"0(0#1#0"8619152608#0"0#
+
+CCompileC build/node2.build/Debug/node2.build/Objects-normal/x86_64/node.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308516642.140586
+e308516643.025283
+r1
+xCompileC
+xbuild/node2.build/Debug/node2.build/Objects-normal/x86_64/node.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.cpp308516642#308516643#0(0"0(0#0#61"/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.cpp8619731712#1431"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/node2-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/node2-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/node2-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/node2-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/node.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/Objects-normal/x86_64/node.o"0#
+
+CCompileC build/node2.build/Debug/node2.build/Objects-normal/x86_64/nodeprog.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/nodeprog.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308516642.138884
+e308516642.655948
+r1
+xCompileC
+xbuild/node2.build/Debug/node2.build/Objects-normal/x86_64/nodeprog.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/nodeprog.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/node2/nodeprog.cpp308516642#308516642#0(0"0(0#0#65"/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/nodeprog.cpp8620167392#1439"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/node2-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/node2-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/node2-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/node2-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/nodeprog.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/Objects-normal/x86_64/nodeprog.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug/node2" normal x86_64
+s308516643.027276
+e308516643.052303
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug/node2
+xnormal
+xx86_64
+lSLF07#2@75"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug/node2308516643#308516643#0(0"0(0#0#0"8617578592#570"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/node2.build/Debug/node2.build/Objects-normal/x86_64/node2.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node2/build/Debug/node2"0#
+

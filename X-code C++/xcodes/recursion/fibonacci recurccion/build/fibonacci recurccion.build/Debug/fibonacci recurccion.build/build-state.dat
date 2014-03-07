@@ -1,0 +1,59 @@
+Tfibonacci recurccion
+v7
+r0
+t312140769.418195
+cCheck dependencies
+cCompileC "build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/Debug/fibonacci recurccion" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/Debug/fibonacci recurccion
+t1290447969
+s11408
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/Objects-normal/x86_64/fibonacci recurccion.LinkFileList
+c000000004CEA920C00000000000000AD
+t1290441228
+s173
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/Objects-normal/x86_64/main.o
+t1290447969
+s71608
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/main.cpp
+c000000004CEAAC61000000000000033D
+t1290447969
+s829
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312140769#312140769#0(0"0(0#1#0"8624766688#0"0#
+
+CCompileC "build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312140769.035343
+e312140769.398472
+r1
+xCompileC
+xbuild/fibonacci recurccion.build/Debug/fibonacci recurccion.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/main.cpp312140769#312140769#0(0"0(0#0#86"/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/main.cpp8618420480#1976"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/fibonacci recurccion-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/fibonacci recurccion-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/fibonacci recurccion-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/fibonacci recurccion-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/Debug/fibonacci recurccion" normal x86_64
+s312140769.398564
+e312140769.418146
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/Debug/fibonacci recurccion
+xnormal
+xx86_64
+lSLF07#2@115"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/Debug/fibonacci recurccion312140769#312140769#0(0"0(0#0#0"8624248256#755"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/fibonacci recurccion.build/Debug/fibonacci recurccion.build/Objects-normal/x86_64/fibonacci recurccion.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/recursion/fibonacci recurccion/build/Debug/fibonacci recurccion"0#
+

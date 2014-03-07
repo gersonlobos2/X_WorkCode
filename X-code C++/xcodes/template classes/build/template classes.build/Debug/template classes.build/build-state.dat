@@ -1,0 +1,69 @@
+Ttemplate classes
+v7
+r0
+t310926893.918261
+cCheck dependencies
+cCompileC "build/template classes.build/Debug/template classes.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/Debug/template classes" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/bag4.h
+c000000004CD826AD0000000000000EF8
+t1289234093
+s3832
+i<cstdlib>
+i<cassert>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/Debug/template classes
+t1289234093
+s24944
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/template classes.build/Debug/template classes.build/Objects-normal/x86_64/main.o
+t1289234093
+s93000
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/template classes.build/Debug/template classes.build/Objects-normal/x86_64/template classes.LinkFileList
+c000000004CD6CB1B0000000000000097
+t1289145115
+s151
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/main.cpp
+c000000004CD8264C0000000000000559
+t1289233996
+s1369
+i<iostream>
+i<cstdlib>
+i<string>
+i"bag4.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310926893#310926893#0(0"0(0#1#0"8611015232#0"0#
+
+CCompileC "build/template classes.build/Debug/template classes.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s310926893.278950
+e310926893.896812
+r1
+xCompileC
+xbuild/template classes.build/Debug/template classes.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/main.cpp310926893#310926893#0(0"0(0#0#72"/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/main.cpp8615200480#1750"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/template classes.build/Debug/template classes.build/template classes-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/template classes.build/Debug/template classes.build/template classes-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/template classes.build/Debug/template classes.build/template classes-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/template classes.build/Debug/template classes.build/template classes-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/template classes.build/Debug/template classes.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/template classes.build/Debug/template classes.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/template classes.build/Debug/template classes.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/Debug/template classes" normal x86_64
+s310926893.896906
+e310926893.918211
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/Debug/template classes
+xnormal
+xx86_64
+lSLF07#2@97"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/Debug/template classes310926893#310926893#0(0"0(0#0#0"8634301280#669"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/template classes.build/Debug/template classes.build/Objects-normal/x86_64/template classes.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/template classes/build/Debug/template classes"0#
+

@@ -1,0 +1,59 @@
+TASSIGMENT #1 DISPLAYING
+v7
+r0
+t326297790.109801
+cCheck dependencies
+cCompileC "build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/Debug/ASSIGMENT #1 DISPLAYING" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/Objects-normal/x86_64/ASSIGMENT #1 DISPLAYING.LinkFileList
+c000000004DC2B13D00000000000000B8
+t1304604989
+s184
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/Objects-normal/x86_64/main.o
+t1304604989
+s70588
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/Debug/ASSIGMENT #1 DISPLAYING
+t1304604990
+s11392
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/main.cpp
+c000000004DC2B13D000000000000017C
+t1304604989
+s380
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326297789#326297789#0(0"0(0#1#0"8621213536#0"0#
+
+CCompileC "build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326297789.313060
+e326297790.033796
+r1
+xCompileC
+xbuild/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/main.cpp326297789#326297790#0(0"0(0#0#91"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/main.cpp8618879136#2085"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/ASSIGMENT #1 DISPLAYING-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/ASSIGMENT #1 DISPLAYING-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/ASSIGMENT #1 DISPLAYING-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/ASSIGMENT #1 DISPLAYING-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/Debug/ASSIGMENT #1 DISPLAYING" normal x86_64
+s326297790.034052
+e326297790.109743
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/Debug/ASSIGMENT #1 DISPLAYING
+xnormal
+xx86_64
+lSLF07#2@123"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/Debug/ASSIGMENT #1 DISPLAYING326297790#326297790#0(0"0(0#0#0"8621314592#792"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/ASSIGMENT #1 DISPLAYING.build/Debug/ASSIGMENT #1 DISPLAYING.build/Objects-normal/x86_64/ASSIGMENT #1 DISPLAYING.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/ASSIGMENT #1 DISPLAYING/build/Debug/ASSIGMENT #1 DISPLAYING"0#
+

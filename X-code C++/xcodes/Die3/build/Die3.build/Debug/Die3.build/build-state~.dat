@@ -1,0 +1,86 @@
+TDie3
+v7
+r0
+t307037828.791988
+cCheck dependencies
+cCompileC build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp
+c000000004C9CCF040000000000000A0D
+t1285345028
+s2573
+i"Die.h"
+i<iostream>
+i<string>
+i<ctime>
+i<cstdlib>
+i<fstream>
+i<cmath>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.h
+c000000004C9CCF040000000000000410
+t1285345028
+s1040
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/Die3
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die.o
+t1285345028
+s78612
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die3.LinkFileList
+c000000004C9CCF0400000000000000E5
+t1285345028
+s229
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp
+c000000004C9CCF0400000000000017B8
+t1285345028
+s6072
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307037828#307037828#0(0"0(0#1#0"8624083648#0"0#
+
+CCompileC build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307037828.280325
+e307037828.791908
+r1
+xCompileC
+xbuild/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp307037828#307037828#0(0"0(0#0#59"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp8622856448#1400"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/Die.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/Die.o"0#
+
+CCompileC build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307037828.278767
+e307037828.280252
+r0
+xCompileC
+xbuild/Die3.build/Debug/Die3.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#307037828#0(2102"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:83:17: error: imp.h: No such file or directory/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:90: error: 'dieclass' is not a namespace-name/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:90: error: expected namespace-name before ';' token/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp: In function 'int main()':/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:100: error: 'Die' was not declared in this scope/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:100: error: template argument 1 is invalid/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:100: error: template argument 2 is invalid/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:100: error: invalid type in declaration before ';' token/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:102: error: expected `;' before 'dado'/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:103: error: expected `;' before 'dedo'/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:105: error: 'dado' was not declared in this scope/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:162: error: request for member 'push_back' in 'vec', which is of non-class type 'int'/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:162: error: expected type-specifier before 'Die'/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:162: error: expected `)' before 'Die'/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:172: error: invalid types 'int[int]' for array subscript/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:179: error: invalid types 'int[int]' for array subscript/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:179: error: invalid types 'int[int]' for array subscript/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:181: error: 'dedo' was not declared in this scope/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp:189: error: invalid types 'int[int]' for array subscript18(4@32"Imp.h: No such file or directory307037828#0#108#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#83#0#83#0#28"*: No such file or directory0(4@34"'dieclass' is not a namespace-name307037828#108#107#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#90#0#90#0#0"0(4@40"Expected namespace-name before ';' token307037828#215#113#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#90#0#90#0#19"expected * before *0(4@36"'Die' was not declared in this scope307037828#416#110#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#100#0#100#0#34"'*' was not declared in this scope0(4@30"Template argument 1 is invalid307037828#526#104#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#100#0#100#0#0"0(4@30"Template argument 2 is invalid307037828#630#104#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#100#0#100#0#0"0(4@44"Invalid type in declaration before ';' token307037828#734#118#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#100#0#100#0#0"0(4@26"Expected `;' before 'dado'307037828#852#100#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#102#0#102#0#19"expected * before *0(4@26"Expected `;' before 'dedo'307037828#952#100#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#103#0#103#0#19"expected * before *0(4@37"'dado' was not declared in this scope307037828#1052#111#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#105#0#105#0#34"'*' was not declared in this scope0(4@73"Request for member 'push_back' in 'vec', which is of non-class type 'int'307037828#1163#147#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#162#0#162#0#0"0(4@36"Expected type-specifier before 'Die'307037828#1310#110#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#162#0#162#0#19"expected * before *0(4@25"Expected `)' before 'Die'307037828#1420#99#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#162#0#162#0#19"expected * before *0(4@44"Invalid types 'int[int]' for array subscript307037828#1519#118#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#172#0#172#0#0"0(4@44"Invalid types 'int[int]' for array subscript307037828#1637#118#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#179#0#179#0#0"0(4@44"Invalid types 'int[int]' for array subscript307037828#1755#118#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#179#0#179#0#0"0(4@37"'dedo' was not declared in this scope307037828#1873#111#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#181#0#181#0#34"'*' was not declared in this scope0(4@44"Invalid types 'int[int]' for array subscript307037828#1984#118#0(6@60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp307037828#189#0#189#0#0"0(0#0#60"/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp8617772576#1402"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Die3-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Die3.build/Debug/Die3.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Die3/build/Debug/Die3" normal x86_64
+r0
+

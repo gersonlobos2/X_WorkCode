@@ -1,0 +1,59 @@
+TtestProgram
+v7
+r0
+t309895317.271642
+cCheck dependencies
+cCompileC build/testProgram.build/Debug/testProgram.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/Debug/testProgram" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/Debug/testProgram
+t1288202517
+s10616
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/testProgram.build/Debug/testProgram.build/Objects-normal/x86_64/main.o
+t1288202517
+s67016
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/testProgram.build/Debug/testProgram.build/Objects-normal/x86_64/testProgram.LinkFileList
+c000000004CC869140000000000000088
+t1288202516
+s136
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/main.cpp
+c000000004CC86908000000000000008F
+t1288202504
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309895316#309895316#0(0"0(0#1#0"8612735712#0"0#
+
+CCompileC build/testProgram.build/Debug/testProgram.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s309895316.913555
+e309895317.252823
+r1
+xCompileC
+xbuild/testProgram.build/Debug/testProgram.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/main.cpp309895316#309895317#0(0"0(0#0#67"/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/main.cpp8600827392#1605"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/testProgram.build/Debug/testProgram.build/testProgram-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/testProgram.build/Debug/testProgram.build/testProgram-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/testProgram.build/Debug/testProgram.build/testProgram-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/testProgram.build/Debug/testProgram.build/testProgram-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/testProgram.build/Debug/testProgram.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/testProgram.build/Debug/testProgram.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/testProgram.build/Debug/testProgram.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/Debug/testProgram" normal x86_64
+s309895317.252915
+e309895317.271585
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/Debug/testProgram
+xnormal
+xx86_64
+lSLF07#2@87"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/Debug/testProgram309895317#309895317#0(0"0(0#0#0"8618157696#624"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/testProgram.build/Debug/testProgram.build/Objects-normal/x86_64/testProgram.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/testProgram/build/Debug/testProgram"0#
+

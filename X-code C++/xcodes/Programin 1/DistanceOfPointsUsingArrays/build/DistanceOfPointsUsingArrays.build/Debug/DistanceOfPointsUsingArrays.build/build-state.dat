@@ -1,0 +1,59 @@
+TDistanceOfPointsUsingArrays
+v7
+r0
+t326299493.216350
+cCheck dependencies
+cCompileC build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug/DistanceOfPointsUsingArrays" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug/DistanceOfPointsUsingArrays
+t1304606662
+s11280
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/DistanceOfPointsUsingArrays.LinkFileList
+c000000004DC2B4B200000000000000C4
+t1304605874
+s196
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/main.o
+t1304606662
+s71560
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp
+c000000004DC2B7C6000000000000040C
+t1304606662
+s1036
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326299493#326299493#0(0"0(0#1#0"8622064512#0"0#
+
+CCompileC build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s326299462.391916
+e326299462.757453
+r1
+xCompileC
+xbuild/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp326299462#326299462#0(0"0(0#0#95"/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp8622064192#2201"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DistanceOfPointsUsingArrays-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DistanceOfPointsUsingArrays-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DistanceOfPointsUsingArrays-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DistanceOfPointsUsingArrays-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug/DistanceOfPointsUsingArrays" normal x86_64
+s326299462.757546
+e326299462.776054
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug/DistanceOfPointsUsingArrays
+xnormal
+xx86_64
+lSLF07#2@131"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug/DistanceOfPointsUsingArrays326299462#326299462#0(0"0(0#0#0"8622085568#828"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/DistanceOfPointsUsingArrays.build/Debug/DistanceOfPointsUsingArrays.build/Objects-normal/x86_64/DistanceOfPointsUsingArrays.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/Programin 1/DistanceOfPointsUsingArrays/build/Debug/DistanceOfPointsUsingArrays"0#
+

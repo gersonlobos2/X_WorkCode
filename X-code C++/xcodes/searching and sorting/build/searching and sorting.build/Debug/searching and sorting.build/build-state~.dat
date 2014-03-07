@@ -1,0 +1,52 @@
+Tsearching and sorting
+v7
+r0
+t313880369.652606
+cCheck dependencies
+cCompileC "build/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug/searching and sorting
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/searching and sorting.LinkFileList
+c000000004D0537B100000000000000A6
+t1292187569
+s166
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp
+c000000004D0537B100000000000018B1
+t1292187569
+s6321
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313880369#313880369#0(0"0(0#1#0"8623766464#0"0#
+
+CCompileC "build/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313880369.141746
+e313880369.652434
+r0
+xCompileC
+xbuild/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp:71:18: error: bag6.h: No such file or directory
+lSLF07#2@85"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp313880369#313880369#0(126"/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp:71:18: error: bag6.h: No such file or directory1(4@33"Bag6.h: No such file or directory313880369#0#126#0(6@77"/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp313880369#71#0#71#0#28"*: No such file or directory0(0#0#77"/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp8623284992#1895"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/searching and sorting-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/searching and sorting-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/searching and sorting-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/searching and sorting-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug/searching and sorting" normal x86_64
+r0
+

@@ -1,0 +1,149 @@
+TnodeWithCards
+v7
+r0
+t311091198.115838
+cCheck dependencies
+cCompileC build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/cardprog.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/cardprog.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/card.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/card.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/node.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug/nodeWithCards" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug/nodeWithCards
+t1289398398
+s37432
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/card.o
+t1288142586
+s83744
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/cardprog.o
+t1289398286
+s72716
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/node.o
+t1289398398
+s91032
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/nodeWithCards.LinkFileList
+c000000004CB7101C00000000000001AE
+t1287065628
+s430
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/card.cpp
+c000000004CC77A9B0000000000001F67
+t1288141467
+s8039
+i<iostream>
+i<iomanip>
+i<string>
+i"card.h"
+i<fstream>
+i<iomanip>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/card.h
+c000000004CC77EFA0000000000001831
+t1288142586
+s6193
+i<fstream>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/cardprog.cpp
+c000000004CC865BE0000000000000D99
+t1288201662
+s3481
+i<iostream>
+i<cstdlib>
+i"card.h"
+i"node.h"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/main.cpp
+c000000004CB60601000000000000008F
+t1286997505
+s143
+i<iostream>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/node.cpp
+c000000004CDAC5610000000000002754
+t1289405793
+s10068
+i"node.h"
+i<cassert>
+i<cstdlib>
+i<iostream>
+i<fstream>
+i"card.h"
+i<iomanip>
+i<ctime>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/node.h
+c000000004CC77EFA0000000000002BF4
+t1288142586
+s11252
+i<cstdlib>
+i"card.h"
+i<fstream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311091197#311091197#0(0"0(0#1#0"8636371168#0"0#
+
+CCompileC build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/card.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/card.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s309835386.391582
+e309835386.970630
+r1
+xCompileC
+xbuild/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/card.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/card.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/card.cpp309835386#309835386#0(0"0(0#0#69"/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/card.cpp8618101792#1663"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/card.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/card.o"0#
+
+CCompileC build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/cardprog.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/cardprog.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311091085.523856
+e311091086.502641
+r1
+xCompileC
+xbuild/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/cardprog.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/cardprog.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/cardprog.cpp311091085#311091086#0(0"0(0#0#73"/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/cardprog.cpp8636839200#1671"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/cardprog.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/cardprog.o"0#
+
+CCompileC build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/node.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311091197.485363
+e311091198.010859
+r1
+xCompileC
+xbuild/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/node.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/node.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/node.cpp311091197#311091198#0(0"0(0#0#69"/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/node.cpp8634680992#1663"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/nodeWithCards-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/node.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/node.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug/nodeWithCards" normal x86_64
+s311091198.010955
+e311091198.115790
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug/nodeWithCards
+xnormal
+xx86_64
+lSLF07#2@91"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug/nodeWithCards311091198#311091198#0(0"0(0#0#0"8635418592#642"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/nodeWithCards.build/Debug/nodeWithCards.build/Objects-normal/x86_64/nodeWithCards.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/nodeWithCards/build/Debug/nodeWithCards"0#
+

@@ -1,0 +1,164 @@
+Tstack and queue project
+v7
+r0
+t312516368.401977
+cCheck dependencies
+cCompileC "build/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC "build/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/card.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug/stack and queue project" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/bag5.h
+c000000004CEFD9AD00000000000011B4
+t1290787245
+s4532
+i<cstdlib>
+i"node2.h"
+i"bag5.hh"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/bag5.hh
+c000000004CEFD9AD00000000000010EF
+t1290787245
+s4335
+i<cassert>
+i<cstdlib>
+i"node2.h"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug/stack and queue project
+t1290823568
+s48016
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/card.o
+t1290787246
+s85492
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/main.o
+t1290823568
+s118884
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/stack and queue project.LinkFileList
+c000000004CEFD9AD0000000000000158
+t1290787245
+s344
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp
+c000000004CEFD9AD0000000000002474
+t1290787245
+s9332
+i<iostream>
+i<iomanip>
+i<string>
+i"card.h"
+i<fstream>
+i<iomanip>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.h
+c000000004CEFD9AD0000000000001832
+t1290787245
+s6194
+i<fstream>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/main.cpp
+c000000004CF0678F000000000000255B
+t1290823567
+s9563
+i<iostream>
+i"node2.h"
+i"stack4.h"
+i"queue.h"
+i"bag5.h"
+i"card.h"
+i<cassert>
+i<cstdlib>
+i<ctime>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/node2.h
+c000000004CEFD8520000000000002B7C
+t1290786898
+s11132
+i<cstdlib>
+i<iterator>
+i<fstream>
+i"node2.hh"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/node2.hh
+c000000004CEFD8520000000000000CF2
+t1290786898
+s3314
+i<cassert>
+i<cstdlib>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/queue.h
+c000000004CEFDBBA0000000000000C30
+t1290787770
+s3120
+i<cstdlib>
+i"node2.h"
+i"queue.hh"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/queue.hh
+c000000004CEFD8520000000000000A34
+t1290786898
+s2612
+i<cassert>
+i"node2.h"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/stack4.h
+c000000004CEFD8520000000000000BA9
+t1290786898
+s2985
+i<cstdlib>
+i"node2.h"
+i"stack4.hh"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/stack4.hh
+c000000004CEFDBD80000000000000773
+t1290787800
+s1907
+i<cassert>
+i"node2.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312516367#312516367#0(0"0(0#1#0"8601612160#0"0#
+
+CCompileC "build/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/card.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312480045.717202
+e312480046.136677
+r1
+xCompileC
+xbuild/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/card.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp312480045#312480046#0(0"0(0#0#79"/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp8619635552#1953"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/stack and queue project-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/stack and queue project-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/stack and queue project-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/stack and queue project-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/card.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/card.o"0#
+
+CCompileC "build/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s312516367.744847
+e312516368.362497
+r1
+xCompileC
+xbuild/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/main.cpp312516367#312516368#0(0"0(0#0#79"/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/main.cpp8617906272#1953"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/stack and queue project-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/stack and queue project-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/stack and queue project-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/stack and queue project-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug/stack and queue project" normal x86_64
+s312516368.362603
+e312516368.401928
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug/stack and queue project
+xnormal
+xx86_64
+lSLF07#2@111"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug/stack and queue project312516368#312516368#0(0"0(0#0#0"8619461792#732"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/stack and queue project.build/Debug/stack and queue project.build/Objects-normal/x86_64/stack and queue project.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/stack and queue project/build/Debug/stack and queue project"0#
+

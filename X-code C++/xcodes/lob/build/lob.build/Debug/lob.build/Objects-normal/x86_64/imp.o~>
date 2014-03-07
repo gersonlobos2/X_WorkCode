@@ -1,0 +1,1 @@
+/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/imp.cpp:83: error: no 'int dieclass::Die::operator+(dieclass::Die)' member function declared in class 'dieclass::Die'

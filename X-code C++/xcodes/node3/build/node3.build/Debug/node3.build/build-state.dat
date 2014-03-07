@@ -1,0 +1,97 @@
+Tnode3
+v7
+r0
+t308637232.832830
+cCheck dependencies
+cCompileC build/node3.build/Debug/node3.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/node3.build/Debug/node3.build/Objects-normal/x86_64/node.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug/node3" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug/node3
+t1286938927
+s19440
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/Objects-normal/x86_64/main.o
+t1286938927
+s72084
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/Objects-normal/x86_64/node.o
+t1286938717
+s79096
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/Objects-normal/x86_64/node3.LinkFileList
+c000000004CB5205D00000000000000EC
+t1286938717
+s236
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/main.cpp
+c000000004CB5D0C60000000000000A32
+t1286983878
+s2610
+i<iostream>
+i<cassert>
+i<cstdlib>
+i<ctime>
+i"node.h"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/node.cpp
+c000000004CB5205D0000000000001831
+t1286938717
+s6193
+i"node.h"
+i<cassert>
+i<cstdlib>
+i<iostream>
+i<ctime>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/node.h
+c000000004CB5205D0000000000002722
+t1286938717
+s10018
+i<cstdlib>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308637232#308637232#0(0"0(0#1#0"8616852544#0"0#
+
+CCompileC build/node3.build/Debug/node3.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308631727.399733
+e308631727.762456
+r1
+xCompileC
+xbuild/node3.build/Debug/node3.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/node3/main.cpp308631727#308631727#0(0"0(0#0#61"/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/main.cpp8618605312#1431"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/node3-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/node3-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/node3-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/node3-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/node3.build/Debug/node3.build/Objects-normal/x86_64/node.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/node.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s308631517.187964
+e308631517.636917
+r1
+xCompileC
+xbuild/node3.build/Debug/node3.build/Objects-normal/x86_64/node.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/node.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/node3/node.cpp308631517#308631517#0(0"0(0#0#61"/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/node.cpp8617736896#1431"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/node3-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/node3-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/node3-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/node3-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/node.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/Objects-normal/x86_64/node.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug/node3" normal x86_64
+s308631727.762544
+e308631727.781727
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug/node3
+xnormal
+xx86_64
+lSLF07#2@75"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug/node3308631727#308631727#0(0"0(0#0#0"8618736704#570"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/node3.build/Debug/node3.build/Objects-normal/x86_64/node3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/node3/build/Debug/node3"0#
+

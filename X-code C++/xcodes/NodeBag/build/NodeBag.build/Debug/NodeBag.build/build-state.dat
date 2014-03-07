@@ -1,0 +1,132 @@
+TNodeBag
+v7
+r0
+t311616207.253085
+cCheck dependencies
+cCompileC build/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/card.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/card.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug/NodeBag" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/bag5.h
+c000000004CE16BDE00000000000011CE
+t1289841630
+s4558
+i<cstdlib>
+i"node2.h"
+i"bag5.hh"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/bag5.hh
+c000000004CE16BDE00000000000010F0
+t1289841630
+s4336
+i<cassert>
+i<cstdlib>
+i"node2.h"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug/NodeBag
+t1289921704
+s34328
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/NodeBag.LinkFileList
+c000000004CDD7DF800000000000000F8
+t1289584120
+s248
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/card.o
+t1289848048
+s85460
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/main.o
+t1289921704
+s96860
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/card.cpp
+c000000004CE184EF0000000000002486
+t1289848047
+s9350
+i<iostream>
+i<iomanip>
+i<string>
+i"card.h"
+i<fstream>
+i<iomanip>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/card.h
+c000000004CDD7DF80000000000001832
+t1289584120
+s6194
+i<fstream>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/main.cpp
+c000000004CE2A4A80000000000001E28
+t1289921704
+s7720
+i<iostream>
+i"node2.h"
+i"bag5.h"
+i"card.h"
+i<cassert>
+i<cstdlib>
+i<ctime>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/node2.h
+c000000004CE1842B0000000000002B7C
+t1289847851
+s11132
+i<cstdlib>
+i<iterator>
+i<fstream>
+i"node2.hh"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/node2.hh
+c000000004CE1842B0000000000000CF0
+t1289847851
+s3312
+i<cassert>
+i<cstdlib>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311616207#311616207#0(0"0(0#1#0"8630140160#0"0#
+
+CCompileC build/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/card.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/card.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311540847.898772
+e311540848.321592
+r1
+xCompileC
+xbuild/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/card.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/card.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/card.cpp311540847#311540848#0(0"0(0#0#63"/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/card.cpp8625059904#1489"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/NodeBag-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/NodeBag-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/NodeBag-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/NodeBag-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/card.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/card.o"0#
+
+CCompileC build/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311614504.365291
+e311614504.828713
+r1
+xCompileC
+xbuild/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/main.cpp311614504#311614504#0(0"0(0#0#63"/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/main.cpp8630772544#1489"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/NodeBag-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/NodeBag-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/NodeBag-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/NodeBag-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug/NodeBag" normal x86_64
+s311614504.828816
+e311614504.849746
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug/NodeBag
+xnormal
+xx86_64
+lSLF07#2@79"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug/NodeBag311614504#311614504#0(0"0(0#0#0"8630110368#588"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/NodeBag.build/Debug/NodeBag.build/Objects-normal/x86_64/NodeBag.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/NodeBag/build/Debug/NodeBag"0#
+

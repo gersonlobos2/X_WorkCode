@@ -1,0 +1,87 @@
+//NOTE: THIS FUNCTION is in int main..
+//Pre -> A pointer of type BinaryTreeNode<int>* exists, and it alrady has some data in it's node. 
+//In other words, it's a leaf, and it is != NULL. Key is the int new value to insert into the tree.
+//Post -> A tree will be built using recursion, adding a new node with the key value each time.
+//Uses: Read in data from an array and feed it into the tree to build the initial tree before traversing.
+void insert(int key, BinaryTreeNode<int> *leaf)
+{
+  if(key < leaf->getData())
+  {
+    if(leaf->getLeft()!=NULL)
+     insert(key, leaf->getLeft());
+    else
+    {
+      leaf->setLeft(new BinaryTreeNode<int>(key));
+      leaf->getLeft()->setLeft(NULL);    //Sets the left child of the child node to null
+      leaf->getLeft()->setRight(NULL);   //Sets the right child of the child node to null
+    }  
+  }
+  else if(key >= leaf->getData())
+  {
+    if(leaf->getRight() !=NULL)
+      insert(key, leaf->getRight());
+    else
+    {
+      leaf->setRight(new BinaryTreeNode<int>(key));
+      leaf->getRight()->setLeft(NULL);  //Sets the left child of the child node to null
+      leaf->getRight()->setRight(NULL); //Sets the right child of the child node to null
+    }
+  }
+}
+
+/*
+example:
+	BinaryTreeNode<int>* rootP= NULL;		//root pointer
+
+
+if(i == 1)	//on first loop...
+{
+	rootP = new BinaryTreeNode<int>(tempNum); //set the root node.
+}
+	if(i>1)								//after first loop...
+	{
+	insert(tempNum, rootP);				//use the recursive insert function
+	}
+
+*/
+
+
+//These functions go in the BinTree.h file.
+//===================================================================
+//In-order, Post-Order & Pre-Order traversal print functions****
+//Library used: cstdlib, iostream
+	
+	//inOrder-> process left nodes, process root, process right nodes
+	template <class Item>
+	void inOrderPrint(const BinaryTreeNode<Item>* node_ptr)
+	{
+		if(node_ptr != NULL){
+			inOrderPrint(node_ptr->getLeft());
+			std::cout << node_ptr->getData() << std::endl;
+			inOrderPrint(node_ptr->getRight());
+		}
+	}
+	
+	//preOrder-> process root, process left nodes, process right nodes
+	template <class Item>
+	void preOrderPrint(const BinaryTreeNode<Item>* node_ptr)
+	{
+		if(node_ptr != NULL){
+			std::cout << node_ptr->getData() << std::endl;
+			preOrderPrint(node_ptr->getLeft());
+			preOrderPrint(node_ptr->getRight());
+		}
+	}
+	
+	//porstOrder-> process left nodes, process right nodes, process root.
+	template <class Item>
+	void postOrderPrint(const BinaryTreeNode<Item>* node_ptr)
+	{
+		if(node_ptr != NULL){
+			preOrderPrint(node_ptr->getLeft());
+			preOrderPrint(node_ptr->getRight());
+			std::cout << node_ptr->getData() << std::endl;
+		}
+	}
+//===================================================================
+

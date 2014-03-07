@@ -1,0 +1,67 @@
+Tin and out streams
+v7
+r0
+t353472157.597535
+cCheck dependencies
+cCompileC "build/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug/in and out streams" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug/in and out streams
+t1331779357
+s16968
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/in and out streams.LinkFileList
+c000000004CEB0421000000000000009D
+t1290470433
+s157
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/main.o
+t1331779357
+s81988
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp
+c000000004F61571D00000000000003E3
+t1331779357
+s995
+i<iostream>
+i<fstream>
+i<ctime>
+i<stdlib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies353472157#353472157#0(0"0(0#1#0"8614806976#0"0#
+
+CCompileC "build/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s353472157.202894
+e353472157.577787
+r1
+xCompileC
+xbuild/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp353472157#353472157#0(0"0(0#0#74"/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp8599529280#1808"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/in and out streams-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/in and out streams-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/in and out streams-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/in and out streams-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug/in and out streams" normal x86_64
+s353472157.577861
+e353472157.597482
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug/in and out streams
+xnormal
+xx86_64
+lSLF07#2@101"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug/in and out streams353472157#353472157#0(0"0(0#0#0"8615851360#687"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/in and out streams.build/Debug/in and out streams.build/Objects-normal/x86_64/in and out streams.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/in and out streams/build/Debug/in and out streams"0#
+

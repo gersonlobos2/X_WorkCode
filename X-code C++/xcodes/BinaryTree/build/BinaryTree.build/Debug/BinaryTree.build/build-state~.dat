@@ -1,0 +1,51 @@
+TBinaryTree
+v7
+r0
+t313275831.811087
+cCheck dependencies
+cCompileC build/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/BinaryTree.LinkFileList
+c000000004CFBFE370000000000000085
+t1291583031
+s133
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug/BinaryTree
+t2
+s0
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp
+c000000004CFBFE3700000000000000B0
+t1291583031
+s176
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313275831#313275831#0(0"0(0#1#0"8624319168#0"0#
+
+CCompileC build/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313275831.172101
+e313275831.811027
+r0
+xCompileC
+xbuild/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp313275831#313275831#0(210"/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp:8: error: expected `{' before 'int'/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp:14: error: expected `}' at end of input2(4@25"Expected `{' before 'int'313275831#0#103#0(6@66"/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp313275831#8#0#8#0#19"expected * before *0(4@28"Expected `}' at end of input313275831#103#107#0(6@66"/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp313275831#14#0#14#0#0"0(0#0#66"/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp8607315424#1576"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/BinaryTree-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/BinaryTree-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/BinaryTree-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/BinaryTree-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/BinaryTree.build/Debug/BinaryTree.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/BinaryTree/build/Debug/BinaryTree" normal x86_64
+r0
+

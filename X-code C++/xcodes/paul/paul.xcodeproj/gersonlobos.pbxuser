@@ -1,0 +1,160 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0B30966B1243DD9B001A68AF /* paul */;
+		activeTarget = 8DD76F620486A84900D96B5E /* paul */;
+		addToTargets = (
+			8DD76F620486A84900D96B5E /* paul */,
+		);
+		codeSenseManager = 0B3096711243DDB9001A68AF /* Code sense */;
+		executables = (
+			0B30966B1243DD9B001A68AF /* paul */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					446,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306437531;
+			PBXWorkspaceStateSaveDate = 306437531;
+		};
+		perUserProjectItems = {
+			0B3096BC1243ED1F001A68AF /* PBXTextBookmark */ = 0B3096BC1243ED1F001A68AF /* PBXTextBookmark */;
+			0B3096BD1243ED1F001A68AF /* PBXTextBookmark */ = 0B3096BD1243ED1F001A68AF /* PBXTextBookmark */;
+			0B3096BE1243ED1F001A68AF /* XCBuildMessageTextBookmark */ = 0B3096BE1243ED1F001A68AF /* XCBuildMessageTextBookmark */;
+			0B3097041243F15C001A68AF /* PBXTextBookmark */ = 0B3097041243F15C001A68AF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0B3096701243DDB9001A68AF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {624, 1742}}";
+			sepNavSelRange = "{2599, 0}";
+			sepNavVisRange = "{2533, 572}";
+		};
+	};
+	0B30966B1243DD9B001A68AF /* paul */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = paul;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0B3096701243DDB9001A68AF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0B3096711243DDB9001A68AF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0B3096721243DDC5001A68AF /* Imp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {624, 702}}";
+			sepNavSelRange = "{633, 0}";
+			sepNavVisRange = "{410, 370}";
+		};
+	};
+	0B3096731243DDC5001A68AF /* Imp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 1378}}";
+			sepNavSelRange = "{1422, 0}";
+			sepNavVisRange = "{1318, 342}";
+		};
+	};
+	0B3096BC1243ED1F001A68AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B3096721243DDC5001A68AF /* Imp.h */;
+		name = "Imp.h: 30";
+		rLen = 0;
+		rLoc = 633;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 410;
+	};
+	0B3096BD1243ED1F001A68AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 0B3096731243DDC5001A68AF /* Imp.cpp */;
+		name = "Imp.cpp: 79";
+		rLen = 0;
+		rLoc = 1261;
+		rType = 0;
+		vrLen = 494;
+		vrLoc = 1169;
+	};
+	0B3096BE1243ED1F001A68AF /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "No match for 'operator+=' in 'total += * bag. std::vector<_Tp, _Alloc>::operator[] [with _Tp = Die*, _Alloc = std::allocator<Die*>](((long unsigned int)p))'";
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 114;
+		rType = 1;
+	};
+	0B3097041243F15C001A68AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 101";
+		rLen = 0;
+		rLoc = 2599;
+		rType = 0;
+		vrLen = 572;
+		vrLoc = 2533;
+	};
+	8DD76F620486A84900D96B5E /* paul */ = {
+		activeExec = 0;
+		executables = (
+			0B30966B1243DD9B001A68AF /* paul */,
+		);
+	};
+}

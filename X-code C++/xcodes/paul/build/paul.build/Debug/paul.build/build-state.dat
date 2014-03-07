@@ -1,0 +1,98 @@
+Tpaul
+v7
+r0
+t306442439.817201
+cCheck dependencies
+cCompileC build/paul.build/Debug/paul.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/paul.build/Debug/paul.build/Objects-normal/x86_64/Imp.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/Imp.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug/paul" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C8EDC2D00000000000000EE
+t1284430893
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/Imp.cpp
+c000000004C93B5860000000000000681
+t1284748678
+s1665
+i"Imp.h"
+i<iostream>
+i<cstdlib>
+i<ctime>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/Imp.h
+c000000004C93B5860000000000000318
+t1284748678
+s792
+i<iostream>
+i<cstdlib>
+i<string>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug/paul
+t1284749639
+s37160
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/Objects-normal/x86_64/Imp.o
+t1284748679
+s76560
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/Objects-normal/x86_64/main.o
+t1284749612
+s111476
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/Objects-normal/x86_64/paul.LinkFileList
+c000000004C93A75D00000000000000E5
+t1284745053
+s229
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/main.cpp
+c000000004C93B9470000000000000C21
+t1284749639
+s3105
+i<iostream>
+i<cstdlib>
+i"Imp.h"
+i<string>
+i<vector>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306442439#306442439#0(0"0(0#1#0"8629141920#0"0#
+
+CCompileC build/paul.build/Debug/paul.build/Objects-normal/x86_64/Imp.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/Imp.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s306441478.722033
+e306441479.458585
+r1
+xCompileC
+xbuild/paul.build/Debug/paul.build/Objects-normal/x86_64/Imp.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/Imp.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/paul/Imp.cpp306441478#306441479#0(0"0(0#0#59"/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/Imp.cpp8641058880#1400"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/paul-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/paul-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/paul-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/paul-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/Imp.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/Objects-normal/x86_64/Imp.o"0#
+
+CCompileC build/paul.build/Debug/paul.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s306442439.792648
+e306442439.793749
+r1
+xCompileC
+xbuild/paul.build/Debug/paul.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/paul/main.cpp306442439#306442439#0(0"0(0#0#60"/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/main.cpp8639837856#1402"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/paul-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/paul-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/paul-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/paul-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug/paul" normal x86_64
+s306442439.793899
+e306442439.817154
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug/paul
+xnormal
+xx86_64
+lSLF07#2@73"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug/paul306442439#306442439#0(0"0(0#0#0"8640750688#561"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/paul.build/Debug/paul.build/Objects-normal/x86_64/paul.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/paul/build/Debug/paul"0#
+

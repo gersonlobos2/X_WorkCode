@@ -1,0 +1,86 @@
+Tsearching and sorting
+v7
+r0
+t320603699.590616
+cCheck dependencies
+cCompileC "build/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug/searching and sorting" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/bintree.h
+c000000004D06E9AB0000000000001E13
+t1292298667
+s7699
+i<cstdlib>
+i"fstream.h"
+i"bintree.hh"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/bintree.hh
+c000000004D06E9AB0000000000001375
+t1292298667
+s4981
+i<cassert>
+i<cstdlib>
+i<iomanip>
+i<iostream>
+i"fstream.h"
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug/searching and sorting
+t1292299154
+s39640
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/main.o
+t1292299154
+s172444
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/searching and sorting.LinkFileList
+c000000004D0537B100000000000000A6
+t1292187569
+s166
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp
+c000000004D06EB920000000000002FEA
+t1292299154
+s12266
+i<iostream>
+i<cstdlib>
+i"bintree.h"
+i<ctime>
+i<fstream>
+i<vector>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320603699#320603699#0(0"0(0#1#0"8030798176252403712#0"0#
+
+CCompileC "build/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/main.o" "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s313991954.412217
+e313991954.952655
+r1
+xCompileC
+xbuild/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/fstream.h:31,
+o                 from /Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/bintree.h:113,
+o                 from /Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp:72:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+lSLF07#2@85"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp313991954#313991954#0(759"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/fstream.h:31,                 from /Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/bintree.h:113,                 from /Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp:72:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.1(22@354"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.313991954#308#451#4(7@99"In file included from /Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp313991954#18446744073709551615#0#0(6@77"/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp313991954#72#0#72#0#0"0(7@100"In file included from /Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/bintree.h313991954#18446744073709551615#0#0(6@78"/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/bintree.h313991467#113#0#113#0#0"0(7@93"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/fstream.h313991954#18446744073709551615#0#0(6@71"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/fstream.h301864547#31#0#31#0#0"0(13@438"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h313991954#18446744073709551615#0#0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h301864547#32#0#32#0#0"0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h301864547#32#0#32#0#10"#warning *0(0#0#77"/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp8601642848#1895"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/searching and sorting-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/searching and sorting-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/searching and sorting-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/searching and sorting-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug/searching and sorting" normal x86_64
+s313991954.952749
+e313991954.974425
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug/searching and sorting
+xnormal
+xx86_64
+lSLF07#2@107"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug/searching and sorting313991954#313991954#0(0"0(0#0#0"8630293600#714"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/searching and sorting.build/Debug/searching and sorting.build/Objects-normal/x86_64/searching and sorting.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/searching and sorting/build/Debug/searching and sorting"0#
+

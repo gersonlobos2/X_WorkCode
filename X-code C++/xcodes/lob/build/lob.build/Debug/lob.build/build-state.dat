@@ -1,0 +1,184 @@
+Tlob
+v7
+r0
+t307037591.417358
+cCheck dependencies
+cCompileC build/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/imp.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug/lob" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C9959DA00000000000000EE
+t1285118426
+s238
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug/lob
+t1285344791
+s39168
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o
+t1285175884
+s78604
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/lob.LinkFileList
+c000000004C92E79000000000000000DF
+t1284695952
+s223
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o
+t1285344791
+s118088
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/imp.cpp
+c000000004C9A3A4C0000000000000A0B
+t1285175884
+s2571
+i"imp.h"
+i<iostream>
+i<string>
+i<ctime>
+i<cstdlib>
+i<fstream>
+i<cmath>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/imp.h
+c000000004C9A3A4C0000000000000413
+t1285175884
+s1043
+i<string>
+i<iostream>
+i<fstream>
+
+N/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/main.cpp
+c000000004C9CCE160000000000001806
+t1285344790
+s6150
+i<iostream>
+i<string>
+i"imp.h"
+i<ctime>
+i<cstdlib>
+i<vector>
+i<fstream>
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug/lob
+t1284528442
+s38832
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o
+t1284528091
+s76488
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/lob.LinkFileList
+c000000004C9019D900000000000000CD
+t1284512217
+s205
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o
+t1284528442
+s116428
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp
+c000000004C9057DB00000000000004E9
+t1284528091
+s1257
+i"imp.h"
+i<iostream>
+i<string>
+i<ctime>
+i<cstdlib>
+i<cmath>
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/imp.h
+c000000004C9057C60000000000000307
+t1284528070
+s775
+i<string>
+
+N/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp
+c000000004C90593900000000000005CB
+t1284528441
+s1483
+i<iostream>
+i<string>
+i"imp.h"
+i<ctime>
+i<cstdlib>
+i<vector>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies307037590#307037591#0(0"0(0#1#0"8626866400#0"0#
+
+CCompileC build/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/imp.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s306868684.184730
+e306868684.748566
+r1
+xCompileC
+xbuild/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/imp.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/lob/imp.cpp306868684#306868684#0(0"0(0#0#58"/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/imp.cpp8622482912#1371"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/lob-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/lob-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/lob-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/lob-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/imp.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o"0#
+
+CCompileC build/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o /Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s306220891.250749
+e306220891.645210
+r1
+xCompileC
+xbuild/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o
+x/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp306220891#306220891#0(0"0(0#0#49"/Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp8629935168#1250"    cd /Users/gersonlobos/eclipseWork/xcodes/lob    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-generated-files.hmap -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-own-target-headers.hmap -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-all-target-headers.hmap -iquote /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-project-headers.hmap -F/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug/include -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources/x86_64 -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources -c /Users/gersonlobos/eclipseWork/xcodes/lob/imp.cpp -o /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/imp.o0#
+
+CCompileC build/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s307037590.951719
+e307037591.392357
+r1
+xCompileC
+xbuild/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/gersonlobos/Xcode & eclipse work/xcodes/lob/main.cpp307037590#307037591#0(0"0(0#0#59"/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/main.cpp8626507360#1373"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/lob-generated-files.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/lob-own-target-headers.hmap" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/lob-all-target-headers.hmap" -iquote "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/lob-project-headers.hmap" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug/include" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources/x86_64" "-I/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources" -c "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/main.cpp" -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o /Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s306221241.795797
+e306221242.312830
+r1
+xCompileC
+xbuild/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o
+x/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp306221241#306221242#0(0"0(0#0#50"/Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp8632577856#1252"    cd /Users/gersonlobos/eclipseWork/xcodes/lob    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-generated-files.hmap -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-own-target-headers.hmap -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-all-target-headers.hmap -iquote /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/lob-project-headers.hmap -F/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug/include -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources/x86_64 -I/Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/DerivedSources -c /Users/gersonlobos/eclipseWork/xcodes/lob/main.cpp -o /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/main.o0#
+
+CLd "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug/lob" normal x86_64
+s307037591.392564
+e307037591.417303
+r1
+xLd
+x/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug/lob
+xnormal
+xx86_64
+lSLF07#2@71"Link /Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug/lob307037591#307037591#0(0"0(0#0#0"8627545824#552"    cd "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug" "-F/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug" -filelist "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/lob.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/gersonlobos/Xcode & eclipse work/xcodes/lob/build/Debug/lob"0#
+
+CLd /Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug/lob normal x86_64
+s306221242.312929
+e306221242.368493
+r1
+xLd
+x/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug/lob
+xnormal
+xx86_64
+lSLF07#2@62"Link /Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug/lob306221242#306221242#0(0"0(0#0#0"8632423136#497"    cd /Users/gersonlobos/eclipseWork/xcodes/lob    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug -F/Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug -filelist /Users/gersonlobos/eclipseWork/xcodes/lob/build/lob.build/Debug/lob.build/Objects-normal/x86_64/lob.LinkFileList -mmacosx-version-min=10.6 -o /Users/gersonlobos/eclipseWork/xcodes/lob/build/Debug/lob0#
+
