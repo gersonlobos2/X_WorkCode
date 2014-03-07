@@ -1,0 +1,296 @@
+One of the things to do is that people have to become more human rather than selfish . sample text
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+
+
+Thread Homework
+Exercise 
+ Write a program Wo rdCount that counts the words in one or more files
+Start a new thread for each file
+then the program might print
+Exercise 
+ Modify the program of Exercise so that it prints the total of the
+words in all files after the last counting thread has completed
+
+In addition to these exercises make the following modifications
+Each file word count is to be kept in a class called WordCounter that contains private fields for the file name and word count. Both these fields must be used in a meaningful way in your program
+Create a GUI interface to the program that will display a label and text box for each file being processed. The label will contain the file name, the text box will contain the word count incremented as the counting takes place
+Maintain a total word count in an instance of a subclass of WordCounter and display this in yet another labeled text box Let the value if the file name field value for this instance be Have the total word count incremented in a thread-safe way by using aReentrantLock associated with this instance
+

@@ -1,0 +1,48 @@
+Machine-level Assembler Version 6.3    Wed Nov 14 11:34:14 2012
+
+  LOC    OBJ   SOURCE
+hex*dec
+
+                        ;                                       lmod3.mas
+                        ; Test module for linv1 
+                        ; Link with lmod4.mas
+                        ; links ok
+0  *0    0002  start:   ld     x + 2
+1  *1    FFFD           dout
+2  *2    800A           ldc    '\n'
+3  *3    FFFB           aout
+4  *4    0001           ld     x + 1
+5  *5    FFFD           dout
+6  *6    800A           ldc    '\n'
+7  *7    FFFB           aout
+8  *8    0000           ld     x
+9  *9    FFFD           dout
+A  *10   800A           ldc    '\n'
+B  *11   FFFB           aout
+C  *12   0FFF           ld     x -1
+D  *13   FFFD           dout
+E  *14   800A           ldc    '\n'
+F  *15   FFFB           aout
+10 *16   0FFE           ld     x - 2
+11 *17   FFFD           dout
+12 *18   800A           ldc    '\n'
+13 *19   FFFB           aout
+14 *20   FFFF           halt
+                        extern x
+15 *21   ========= end of lmod3.mas ==============================
+
+
+         Symbol/Cross-Reference Table
+
+Symbol                   Address     References
+                          (hex)       (hex)
+
+ start                     0          
+ x                         ext         15  0   4   8   C  
+                                       10 
+
+Input file   = lmod3.mas
+Output file  = lmod3.mob
+List file    = lmod3.lst 
+Number base  = decimal
+Label status = case sensitive

@@ -1,0 +1,26 @@
+Machine-level Assembler Version 6.3    Wed Nov 14 11:36:04 2012
+
+  LOC    OBJ   SOURCE
+hex*dec
+
+                        ;                                       lmod13.mas
+                        ; Test module for linv1
+                        ; Link with lmod12.mas
+                        ; Generates link error
+0  *0    0005  x:       dw     5
+                        public x
+1  *1    ========= end of lmod13.mas =============================
+
+
+         Symbol/Cross-Reference Table
+
+Symbol                   Address     References
+                          (hex)       (hex)
+
+ x                         0           1  
+
+Input file   = lmod13.mas
+Output file  = lmod13.mob
+List file    = lmod13.lst 
+Number base  = decimal
+Label status = case sensitive

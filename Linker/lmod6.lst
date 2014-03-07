@@ -1,0 +1,27 @@
+Machine-level Assembler Version 6.3    Wed Nov 14 11:34:39 2012
+
+  LOC    OBJ   SOURCE
+hex*dec
+
+                        ;                                       lmod6.mas
+                        ; Test module for linv1 
+                        ; Link with lmod5.mas
+0  *0    0005  x:       dw     5
+1  *1    0006  y:       dw     6
+                        public y
+2  *2    ========= end of lmod6.mas ==============================
+
+
+         Symbol/Cross-Reference Table
+
+Symbol                   Address     References
+                          (hex)       (hex)
+
+ x                         0          
+ y                         1           2  
+
+Input file   = lmod6.mas
+Output file  = lmod6.mob
+List file    = lmod6.lst 
+Number base  = decimal
+Label status = case sensitive
