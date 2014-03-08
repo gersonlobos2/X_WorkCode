@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;ProductOrder2.createImageIcon().imgURL&apos; in &apos;ProductOrder2.createImageIcon()&apos; to field&#x0A;- Original project: &apos;ProductOrder2&apos;&#x0A;- Original element: &apos;ProductOrder2.createImageIcon().imgURL&apos;&#x0A;- Field name: &apos;imgURL&apos;&#x0A;- Initialize field in method&#x0A;- Declared visibility: &apos;private&apos;" description="Convert local variable &apos;imgURL&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;{ProductOrder2.java" name="imgURL" selection="1700 6" stamp="1291219552172" static="false" version="1.0" visibility="2"/>
+</session>

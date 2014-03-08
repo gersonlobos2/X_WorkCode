@@ -1,0 +1,42 @@
+import javax.swing.*;
+
+import org.w3c.dom.events.MouseEvent;
+
+import java.awt.*;
+
+public class Paint extends JPanel //implements Runnable
+{
+	
+	public Paint()
+	{
+		setBackground(Color.black);
+		
+		
+		
+
+	}
+	protected void paintComponent(Graphics page)
+	{
+		super.paintComponent(page);
+	
+	}
+
+	 void mousePressed(MouseEvent e) 
+	 {
+	      e.getScreenX();
+	      e.getScreenY();
+	   }
+	 void mouseReleased(MouseEvent e)
+	 {
+		 
+	 }
+	public static void main(String[] args)
+	{
+	JFrame f= new JFrame();
+	f.setSize(800,800);
+	f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	f.add(BorderLayout.CENTER,new Paint());
+	f.setVisible(true);
+	}
+
+}

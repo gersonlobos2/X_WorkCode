@@ -1,0 +1,4 @@
+#Fri Oct 08 12:38:29 EDT 2010
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression=java api

@@ -1,0 +1,21 @@
+import javax.swing.*;
+import java.awt.*;
+
+public class Paint extends JPanel //implements Runnable
+{
+	
+	public Paint()
+	{
+		setBackground(Color.black);
+
+	}
+	public static void main(String[] args)
+	{
+	JFrame f= new JFrame();
+	f.setSize(800,800);
+	f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	f.add(BorderLayout.CENTER,new Paint());
+	f.setVisible(true);
+	}
+
+}

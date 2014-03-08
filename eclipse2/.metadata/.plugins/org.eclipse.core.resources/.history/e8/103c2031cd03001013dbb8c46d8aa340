@@ -1,0 +1,51 @@
+import javax.swing.*;
+
+import org.w3c.dom.events.MouseEvent;
+
+import java.awt.*;
+import java.awt.geom.Line2D;
+
+public class Paint extends JPanel implements Runnable
+{
+	int X1,Y1,X2,Y2;
+	Graphics drawline; 
+	Line2D line;
+	
+	public Paint()
+	{
+		setBackground(Color.black);
+		
+		
+		
+
+	}
+	public void run()
+	{
+		drawline.drawLine(X1, Y1, X2, Y2);
+	}
+	protected void paintComponent(Graphics page)
+	{
+		super.paintComponent(page);
+	
+	}
+
+	 void mousePressed(MouseEvent e) 
+	 {
+	    X1= e.getScreenX();
+	    Y1= e.getScreenY();
+	   }
+	 void mouseReleased(MouseEvent e)
+	 {
+		X2= e.getScreenX();
+		Y2= e.getScreenY();
+	 }
+	public static void main(String[] args)
+	{
+	JFrame f= new JFrame();
+	f.setSize(800,800);
+	f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	f.add(BorderLayout.CENTER,new Paint());
+	f.setVisible(true);
+	}
+
+}
